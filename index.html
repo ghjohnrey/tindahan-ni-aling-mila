@@ -1,41 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <link rel="icon" type="image/png" href="/favicon.png">
   <meta charset="UTF-8">
   <title>Tindahan ni Aling Mila</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background: #1a1a1a;
-      color: #fff;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 100vh;
-    }
-
-    .box {
-      text-align: center;
-    }
-
-    h1 {
-      font-size: 2.5rem;
-      margin-bottom: 10px;
-    }
-
-    p {
-      opacity: 0.7;
-    }
-  </style>
+  <link rel="icon" href="/favicon.png">
+  <link rel="stylesheet" href="./style.css">
 </head>
+
 <body>
-  <div class="box">
-    <h1>Tindahan ni Aling Mila</h1>
-    <p>Coming soon...</p>
-  </div>
+
+<header class="header">
+  <h1>Tindahan ni Aling Mila</h1>
+  <p>Mga kwentong galing sa kanto</p>
+</header>
+
+<section class="search">
+  <input type="text" id="searchInput" placeholder="Search story...">
+</section>
+
+<section class="stories" id="storyList">
+  <!-- auto render -->
+</section>
+
+<script src="./app.js"></script>
 </body>
 </html>
