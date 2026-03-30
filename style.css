@@ -251,6 +251,17 @@ main {
   font-size: 14px;
 }
 
+.contact-buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.contact-buttons .btn {
+  width: 100%;
+}
+
 @media (max-width: 900px) {
   .two-col,
   .grid {
