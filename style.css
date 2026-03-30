@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+  background: #f4f1ec;
+  color: #222;
+}
+
+.header {
+  padding: 40px 20px;
+  text-align: center;
+  background: #d6c1a3;
+}
+
+.search {
+  padding: 20px;
+  text-align: center;
+}
+
+.search input {
+  width: 80%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.stories {
+  padding: 20px;
+  display: grid;
+  gap: 15px;
+}
+
+.story-card {
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+}
