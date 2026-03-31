@@ -24,7 +24,7 @@
     "product_name": "Coke Mismo",
     "category": "Beverages",
     "description": "Cold softdrinks available anytime",
-    "image": "./assets/images/coke-mismo.jpg",
+    "image": "/assets/images/coke-mismo.jpg",
     "retail": {
       "price": 25,
       "qty": 1,
