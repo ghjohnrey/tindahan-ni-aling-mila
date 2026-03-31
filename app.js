@@ -19,6 +19,7 @@ const elements = {
 const DISPLAY_LIMIT = 10;
 
 async function initCatalog() {
+  initMenuToggle();
   bindEvents();
   await loadProducts();
 }
