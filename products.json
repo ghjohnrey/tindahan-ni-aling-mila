@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "product_id": "PRD-20260331-100955",
+    "barcode": "",
+    "product_name": "Century Tuna",
+    "category": "Canned Goods",
+    "description": "sample description",
+    "image": "",
+    "retail": {
+      "price": 23,
+      "qty": 1,
+      "unit": "bottle"
+    },
+    "wholesale": null,
+    "stock": 23,
+    "min_stock": 12,
+    "status": "In Stock",
+    "visible": true,
+    "featured": false
+  }
+]
