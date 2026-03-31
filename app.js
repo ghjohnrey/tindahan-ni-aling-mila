@@ -16,6 +16,8 @@ const elements = {
   catalogMeta: document.getElementById('catalogMeta'),
 };
 
+const DISPLAY_LIMIT = 50;
+
 async function initCatalog() {
   bindEvents();
   await loadProducts();
@@ -44,76 +46,77 @@ async function loadProducts() {
   try {
     const response = await fetch(PRODUCTS_JSON_PATH, { cache: 'no-store' });
 
-    if (!response.ok) {
-      throw new Error(`Failed to load products.json (${response.status})`);
-    }
+    if (!response.ok) throw new Error('Failed to load');
 
     const data = await response.json();
-
-    if (!Array.isArray(data)) {
-      throw new Error('products.json must be an array.');
-    }
 
     state.products = data;
     populateCategoryFilter(data);
     applyFilters();
+
   } catch (error) {
-    console.error('Catalog load error:', error);
-    elements.productsGrid.innerHTML = '';
-    showEmpty(true, 'Unable to load products right now.');
-    setCatalogMeta('Catalog unavailable.');
+    console.error(error);
+    showEmpty(true, 'Unable to load products.');
   } finally {
     showLoading(false);
   }
 }
 
 function populateCategoryFilter(products) {
-  if (!elements.categoryFilter) return;
-
-  const uniqueCategories = [...new Set(
-    products
-      .map(product => String(product.category || '').trim())
-      .filter(Boolean)
-  )].sort((a, b) => a.localeCompare(b));
+  const categories = [...new Set(products.map(p => p.category).filter(Boolean))];
 
   elements.categoryFilter.innerHTML = `
     <option value="all">All Categories</option>
-    ${uniqueCategories.map(category => `
-      <option value="${escapeHtml(category)}">${escapeHtml(category)}</option>
-    `).join('')}
+    ${categories.map(c => `<option value="${c}">${c}</option>`).join('')}
   `;
 }
 
 function applyFilters() {
   const query = state.searchQuery;
-  const selectedCategory = state.selectedCategory;
+  const category = state.selectedCategory;
 
-  state.filteredProducts = state.products.filter(product => {
+  const matched = state.products.filter(product => {
     const matchesCategory =
-      selectedCategory === 'all' ||
-      String(product.category || '').trim() === selectedCategory;
+      category === 'all' || product.category === category;
 
-    const searchableText = [
-      product.product_name || '',
-      product.barcode || '',
-      product.category || '',
-      product.description || '',
-    ]
-      .join(' ')
-      .toLowerCase();
+    const text = (
+      (product.product_name || '') +
+      (product.barcode || '') +
+      (product.description || '')
+    ).toLowerCase();
 
-    const matchesSearch = !query || searchableText.includes(query);
+    const matchesSearch = !query || text.includes(query);
 
     return matchesCategory && matchesSearch;
   });
 
-  renderProducts(state.filteredProducts);
-  updateMeta();
+  const finalList = buildDisplayList(matched, state.products);
+
+  renderProducts(finalList);
+  updateMeta(matched.length, state.products.length);
+}
+
+function buildDisplayList(matched, allProducts) {
+  let result = [...matched];
+
+  if (result.length >= DISPLAY_LIMIT) {
+    return shuffleArray(result).slice(0, DISPLAY_LIMIT);
+  }
+
+  const needed = DISPLAY_LIMIT - result.length;
+
+  const remainingPool = allProducts.filter(p => !result.includes(p));
+
+  const randomFill = shuffleArray(remainingPool).slice(0, needed);
+
+  return [...result, ...randomFill];
+}
+
+function shuffleArray(arr) {
+  return [...arr].sort(() => Math.random() - 0.5);
 }
 
 function renderProducts(products) {
-  if (!elements.productsGrid) return;
-
   if (!products.length) {
     elements.productsGrid.innerHTML = '';
     showEmpty(true);
@@ -123,184 +126,49 @@ function renderProducts(products) {
   showEmpty(false);
 
   elements.productsGrid.innerHTML = products
-    .map(product => buildProductCard(product))
+    .map(buildProductCard)
     .join('');
 }
 
 function buildProductCard(product) {
-  const imageHtml = buildProductImage(product);
-  const retailHtml = buildRetailBlock(product.retail);
-  const wholesaleHtml = buildWholesaleBlock(product.wholesale);
-  const statusHtml = buildStatusBadge(product.status);
-  const barcodeHtml = product.barcode
-    ? `<p class="product-barcode">Barcode: <span>${escapeHtml(product.barcode)}</span></p>`
-    : '';
-
-  const descriptionHtml = product.description
-    ? `<p class="product-description">${escapeHtml(product.description)}</p>`
-    : '';
-
-  const categoryHtml = product.category
-    ? `<span class="product-category">${escapeHtml(product.category)}</span>`
-    : '';
-
-  const featuredHtml = product.featured
-    ? `<span class="product-featured">Featured</span>`
-    : '';
-
   return `
-    <article class="product-card">
-      <div class="product-image-wrap">
-        ${imageHtml}
-        <div class="product-top-tags">
-          ${categoryHtml}
-          ${featuredHtml}
-        </div>
-      </div>
+    <div class="product-card">
+      ${buildProductImage(product)}
 
       <div class="product-body">
-        <div class="product-header">
-          <h3 class="product-name">${escapeHtml(product.product_name || 'Unnamed Product')}</h3>
-          ${statusHtml}
-        </div>
+        <h3>${product.product_name || 'Unnamed'}</h3>
+        <p>${product.description || ''}</p>
 
-        ${barcodeHtml}
-        ${descriptionHtml}
-
-        <div class="pricing-grid">
-          ${retailHtml}
-          ${wholesaleHtml}
-        </div>
-
-        <div class="product-stock-row">
-          <span class="stock-label">Stock</span>
-          <span class="stock-value">${formatStock(product.stock)}</span>
+        <div class="price">
+          ₱${product?.retail?.price ?? 0}
         </div>
       </div>
-    </article>
+    </div>
   `;
 }
 
 function buildProductImage(product) {
-  const imagePath = String(product.image || '').trim();
-
-  if (!imagePath) {
-    return `
-      <div class="product-image placeholder">
-        <span>No Image</span>
-      </div>
-    `;
+  if (!product.image) {
+    return `<div class="product-image placeholder">No Image</div>`;
   }
 
   return `
-    <img
-      src="${escapeAttribute(imagePath)}"
-      alt="${escapeAttribute(product.product_name || 'Product image')}"
-      class="product-image"
-      loading="lazy"
-      onerror="this.outerHTML='<div class=&quot;product-image placeholder&quot;><span>Image Unavailable</span></div>'"
-    />
+    <img src="${product.image}" class="product-image" loading="lazy">
   `;
 }
 
-function buildRetailBlock(retail) {
-  if (!retail || retail.price == null || retail.qty == null || !retail.unit) {
-    return '';
-  }
-
-  return `
-    <div class="price-card retail">
-      <div class="price-label">Retail</div>
-      <div class="price-value">${formatPrice(retail.price)}</div>
-      <div class="price-meta">${formatQuantity(retail.qty, retail.unit)}</div>
-    </div>
-  `;
+function updateMeta(shown, total) {
+  elements.catalogMeta.textContent =
+    `Showing ${Math.min(shown, DISPLAY_LIMIT)} results (Total: ${total})`;
 }
 
-function buildWholesaleBlock(wholesale) {
-  if (!wholesale || wholesale.price == null || wholesale.qty == null || !wholesale.unit) {
-    return '';
-  }
-
-  return `
-    <div class="price-card wholesale">
-      <div class="price-label">Wholesale</div>
-      <div class="price-value">${formatPrice(wholesale.price)}</div>
-      <div class="price-meta">${formatQuantity(wholesale.qty, wholesale.unit)}</div>
-    </div>
-  `;
+function showLoading(state) {
+  elements.productsLoading.style.display = state ? 'block' : 'none';
 }
 
-function buildStatusBadge(status) {
-  const normalized = String(status || '').trim().toLowerCase();
-
-  let className = 'status-badge in-stock';
-  if (normalized === 'low stock') className = 'status-badge low-stock';
-  if (normalized === 'out of stock') className = 'status-badge out-stock';
-
-  return `<span class="${className}">${escapeHtml(status || 'Unknown')}</span>`;
-}
-
-function updateMeta() {
-  const total = state.products.length;
-  const shown = state.filteredProducts.length;
-
-  if (!total) {
-    setCatalogMeta('No products available.');
-    return;
-  }
-
-  if (shown === total) {
-    setCatalogMeta(`Showing ${shown} product${shown > 1 ? 's' : ''}.`);
-    return;
-  }
-
-  setCatalogMeta(`Showing ${shown} of ${total} products.`);
-}
-
-function setCatalogMeta(text) {
-  if (!elements.catalogMeta) return;
-  elements.catalogMeta.textContent = text;
-}
-
-function showLoading(isLoading) {
-  if (!elements.productsLoading) return;
-  elements.productsLoading.style.display = isLoading ? 'block' : 'none';
-}
-
-function showEmpty(isEmpty, customText) {
-  if (!elements.productsEmpty) return;
-  elements.productsEmpty.style.display = isEmpty ? 'block' : 'none';
-  elements.productsEmpty.textContent = customText || 'No products found.';
-}
-
-function formatPrice(value) {
-  const number = Number(value);
-  if (Number.isNaN(number)) return '₱0';
-  return `₱${number.toLocaleString('en-PH')}`;
-}
-
-function formatQuantity(qty, unit) {
-  return `${qty} ${unit}`;
-}
-
-function formatStock(value) {
-  const number = Number(value);
-  if (Number.isNaN(number)) return '0';
-  return number.toLocaleString('en-PH');
-}
-
-function escapeHtml(value) {
-  return String(value)
-    .replaceAll('&', '&amp;')
-    .replaceAll('<', '&lt;')
-    .replaceAll('>', '&gt;')
-    .replaceAll('"', '&quot;')
-    .replaceAll("'", '&#39;');
-}
-
-function escapeAttribute(value) {
-  return escapeHtml(value);
+function showEmpty(state, text = 'No products found') {
+  elements.productsEmpty.style.display = state ? 'block' : 'none';
+  elements.productsEmpty.textContent = text;
 }
 
 document.addEventListener('DOMContentLoaded', initCatalog);
