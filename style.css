@@ -985,3 +985,33 @@ main {
     padding-right: 54px;
   }
 }
+
+.product-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  padding: 16px;         /* creates distance from card edge */
+  gap: 14px;
+  overflow: hidden;
+}
+
+.product-image-wrap {
+  position: relative;
+  border-radius: 16px;
+  overflow: hidden;
+  background: #f6efe6;
+  padding: 10px;         /* distance around image */
+}
+
+.product-image {
+  width: 100%;
+  height: 220px;
+  object-fit: contain;   /* shows whole image */
+  object-position: center;
+  display: block;
+  background: #f6efe6;
+  border-radius: 12px;
+}
