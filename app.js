@@ -16,7 +16,7 @@ const elements = {
   catalogMeta: document.getElementById('catalogMeta'),
 };
 
-const DISPLAY_LIMIT = 50;
+const DISPLAY_LIMIT = 10;
 
 async function initCatalog() {
   bindEvents();
