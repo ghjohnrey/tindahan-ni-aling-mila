@@ -76,9 +76,15 @@
 </section>
 
 <section id="products" class="section">
-  <h2 class="section-title">Products & Services</h2>
+  <div class="section-header">
+    <h2 class="section-title">Products & Services</h2>
+    <p class="section-subtitle">
+      Browse available wholesale and retail items from Tindahan ni Aling Mila.
+    </p>
+  </div>
 
-  <div class="grid">
+  <!-- STATIC INFO CARDS (original mo, preserved) -->
+  <div class="grid" style="margin-bottom: 28px;">
     <div class="card">
       <h3>Groceries</h3>
       <p>Daily essentials and household needs.</p>
@@ -94,7 +100,47 @@
       <p>Quick access anytime for nearby residents.</p>
     </div>
   </div>
+
+  <!-- DYNAMIC PRODUCT CATALOG -->
+  <div class="catalog-wrapper">
+    
+    <!-- SEARCH + FILTER -->
+    <div class="catalog-toolbar">
+      <div class="search-box">
+        <input
+          type="text"
+          id="productSearch"
+          placeholder="Search by product name or barcode"
+        />
+      </div>
+
+      <div class="filter-box">
+        <select id="categoryFilter">
+          <option value="all">All Categories</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- META INFO -->
+    <div id="catalogMeta" class="catalog-meta"></div>
+
+    <!-- LOADING -->
+    <div id="productsLoading" class="catalog-message">
+      Loading products...
+    </div>
+
+    <!-- EMPTY -->
+    <div id="productsEmpty" class="catalog-message" style="display: none;">
+      No products found.
+    </div>
+
+    <!-- PRODUCTS GRID (AUTO RENDER HERE) -->
+    <div id="productsGrid" class="products-grid"></div>
+
+  </div>
 </section>
+
+
 
 <section id="location" class="section two-col">
   <div class="card">
@@ -141,5 +187,8 @@
   <p>© 2026 Tindahan ni Aling Mila</p>
 </footer>
 
+
+  <!-- IMPORTANT: app.js -->
+<script src="./app.js"></script>
 </body>
 </html>
