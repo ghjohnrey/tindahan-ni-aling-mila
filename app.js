@@ -20,8 +20,25 @@ const DISPLAY_LIMIT = 10;
 
 async function initCatalog() {
   initMenuToggle();
+  initStickyNav(); // ✅ ADDED
   bindEvents();
   await loadProducts();
+}
+
+/* =========================
+   STICKY NAV (NEW)
+========================= */
+function initStickyNav() {
+  const nav = document.querySelector('.topbar');
+  if (!nav) return;
+
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 20) {
+      nav.classList.add('scrolled');
+    } else {
+      nav.classList.remove('scrolled');
+    }
+  });
 }
 
 function bindEvents() {
