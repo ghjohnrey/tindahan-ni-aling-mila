@@ -999,3 +999,33 @@ main {
     overflow: visible;
   }
 }
+
+/* ORIGINAL FILE: :contentReference[oaicite:1]{index=1} */
+
+/* =========================
+   STICKY NAV ADDITION
+========================= */
+
+.topbar {
+  position: sticky;
+  top: 12px;
+  z-index: 1000;
+  transition: all 0.25s ease;
+}
+
+.topbar.scrolled {
+  background: rgba(255, 251, 247, 0.88);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.08);
+  backdrop-filter: blur(16px);
+  padding: 10px 14px;
+}
+
+/* SHRINK EFFECT */
+.topbar.scrolled .brand-logo {
+  width: 42px;
+  height: 42px;
+}
+
+.topbar.scrolled .brand {
+  font-size: 15px;
+}
