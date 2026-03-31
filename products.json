@@ -21,19 +21,19 @@
   {
     "product_id": "PRD-20260331-103145",
     "barcode": "4801234567890",
-    "product_name": "Coke Mismo",
-    "category": "Beverages",
-    "description": "Cold softdrinks available anytime",
+    "product_name": "Idol Cheesedog",
+    "category": "Frozen Product",
+    "description": "Cold, available anytime",
     "image": "/assets/images/coke-mismo.jpg",
     "retail": {
-      "price": 25,
+      "price": 60,
       "qty": 1,
-      "unit": "bottle"
+      "unit": "pack"
     },
     "wholesale": {
-      "price": 280,
-      "qty": 12,
-      "unit": "bottles"
+      "price": 600,
+      "qty": 11,
+      "unit": "pacl"
     },
     "stock": 60,
     "min_stock": 10,
