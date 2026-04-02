@@ -324,6 +324,19 @@ h1 {
   color: var(--text);
 }
 
+.contact-btn {
+  background: linear-gradient(135deg, var(--accent), var(--accent-strong));
+  color: #fff;
+  box-shadow: 0 14px 28px rgba(96, 66, 48, 0.16);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  flex: 1 1 160px;
+}
+
+.contact-btn:hover,
+.contact-btn:focus-visible {
+  opacity: 0.96;
+}
+
 .image-showcase {
   padding: 14px;
   display: flex;
@@ -647,6 +660,13 @@ main {
 .contact-list {
   display: grid;
   gap: 16px;
+}
+
+.contact-card {
+  padding: 16px 18px;
+  border-radius: 18px;
+  background: rgba(255, 252, 248, 0.82);
+  border: 1px solid rgba(96, 61, 43, 0.08);
 }
 
 .contact-label {
