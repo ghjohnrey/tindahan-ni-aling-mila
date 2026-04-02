@@ -8191,7 +8191,7 @@
     "product_id": "item-00214",
     "barcode": "",
     "product_name": "Tuyo",
-    "category": "Others",
+    "category": "Dried Foods",
     "description": "Tuyo is a dried food product commonly used in simple meals. It can be fried or prepared easily at home. A convenient option for everyday use.",
     "image": "/assets/images/item-00214.Image.112751.png",
     "retail": {
@@ -8467,7 +8467,7 @@
     "product_id": "item-00275",
     "barcode": "",
     "product_name": "Nata de Coco Red",
-    "category": "Others",
+    "category": "Special",
     "description": "Nata de Coco Red is a canned goods item often used in desserts and sweet preparations. It can be added easily to various recipes. A convenient ingredient for everyday use.",
     "image": "/assets/images/item-00275.Image.113450.png",
     "retail": {
@@ -8743,7 +8743,7 @@
     "product_id": "item-00035",
     "barcode": "4804888861151",
     "product_name": "Bossing Cheese 1kg",
-    "category": "Milk & Dairy",
+    "category": "Frozen Foods",
     "description": "Bossing Cheese 1kg is a dairy product suitable for cooking or simple meals. It can be sliced or mixed into recipes easily. A convenient option for regular use.",
     "image": "/assets/images/item-00035.Image.091805.png",
     "retail": {
@@ -9594,8 +9594,8 @@
     "product_id": "item-00215",
     "barcode": "",
     "product_name": "Labahita",
-    "category": "Frozen Foods",
-    "description": "Labahita is a fresh seafood item commonly used in home cooking. It can be prepared in different ways depending on the recipe. A practical choice for everyday meals.",
+    "category": "Dried Foods",
+    "description": "Labahita is a dried seafood item commonly used in home cooking. It can be prepared in different ways depending on the recipe. A practical choice for everyday meals.",
     "image": "/assets/images/item-00215.Image.112820.png",
     "retail": {
       "price": 100,
@@ -10583,7 +10583,7 @@
     "product_id": "item-00274",
     "barcode": "",
     "product_name": "Nata de Coco White",
-    "category": "Others",
+    "category": "Special",
     "description": "Nata de Coco White is a canned goods item commonly used in desserts and sweet dishes. It can be added easily to recipes. A convenient pantry ingredient.",
     "image": "/assets/images/item-00274.Image.113437.png",
     "retail": {
@@ -10606,7 +10606,7 @@
     "product_id": "item-00276",
     "barcode": "",
     "product_name": "Nata de Coco (Green)",
-    "category": "Others",
+    "category": "Special",
     "description": "Nata de Coco (Green) is a canned goods product often used for desserts and simple preparations. It’s ready to use and easy to serve. A practical option for everyday use.",
     "image": "/assets/images/item-00276.Image.113533.png",
     "retail": {
