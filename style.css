@@ -1156,9 +1156,9 @@ h1, h2, h3, p, a {
     padding: 16px;
   }
 }
+
 /* =========================
    GALLERY LAYOUT FIX (APPENDED ONLY)
-   Fix: oversized image card and uneven gallery section
 ========================= */
 
 .gallery-grid {
@@ -1220,6 +1220,7 @@ h1, h2, h3, p, a {
     font-size: 18px;
   }
 }
+
 /* CATEGORY BADGE */
 .product-image-wrapper {
   position: relative;
@@ -1277,6 +1278,7 @@ h1, h2, h3, p, a {
     padding: 5px 8px;
   }
 }
+
 .pagination {
   margin-top: 22px;
   display: flex;
@@ -1384,4 +1386,21 @@ h1, h2, h3, p, a {
     padding: 0 12px;
     font-size: 14px;
   }
+}
+
+/* =========================
+   BACKGROUND IMAGE PATCH (APPENDED ONLY)
+   Uses generated pattern images
+========================= */
+
+body {
+  background:
+    #f7e7d6 url('/assets/images/body-bg.png') repeat;
+  background-size: 420px auto;
+}
+
+.hero {
+  background:
+    #c4b3a3 url('/assets/images/hero-bg.png') repeat;
+  background-size: 420px auto;
 }
