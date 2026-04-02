@@ -1049,3 +1049,110 @@ main {
 .topbar.scrolled .brand {
   font-size: 15px;
 }
+
+/* =========================
+   MOBILE FIX PATCH (APPENDED ONLY)
+   Fix: oversized buttons, cut content, overflow
+========================= */
+
+/* Prevent horizontal cut */
+body {
+  overflow-x: hidden;
+}
+
+img,
+iframe {
+  max-width: 100%;
+}
+
+/* Fix long text overflow */
+h1, h2, h3, p, a {
+  overflow-wrap: break-word;
+}
+
+/* FIX BUTTON SIZE ON MOBILE */
+@media (max-width: 640px) {
+  .btn {
+    min-height: 42px;
+    padding: 10px 14px;
+    font-size: 13px;
+    border-radius: 16px;
+  }
+
+  .contact-btn {
+    min-height: 40px;
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+
+  /* Prevent giant full-width buttons unless needed */
+  .btn {
+    width: auto;
+  }
+
+  /* Better layout for hero buttons */
+  .hero-actions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  /* Contact buttons grid */
+  .contact-buttons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  /* Reduce card padding */
+  .card,
+  .catalog-wrapper,
+  .hero-copy {
+    padding: 18px;
+  }
+
+  /* Fix titles getting cut */
+  h1 {
+    font-size: clamp(34px, 11vw, 48px);
+    line-height: 1;
+  }
+
+  .section-title,
+  .card h2 {
+    font-size: 24px;
+  }
+
+  /* Fix map overflow */
+  .map-wrap iframe {
+    min-height: 260px;
+  }
+
+  /* Fix product layout overflow */
+  .product-mobile-row {
+    grid-template-columns: 80px 1fr;
+  }
+
+  .product-mobile-image .product-image {
+    height: 64px;
+  }
+}
+
+/* EXTRA SMALL DEVICES */
+@media (max-width: 420px) {
+  .hero-actions {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-buttons {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .btn,
+  .contact-btn {
+    font-size: 12.5px;
+  }
+
+  .card {
+    padding: 16px;
+  }
+}
