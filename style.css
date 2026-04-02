@@ -1156,3 +1156,67 @@ h1, h2, h3, p, a {
     padding: 16px;
   }
 }
+/* =========================
+   GALLERY LAYOUT FIX (APPENDED ONLY)
+   Fix: oversized image card and uneven gallery section
+========================= */
+
+.gallery-grid {
+  align-items: stretch;
+}
+
+.gallery-grid > .card,
+.gallery-grid > .premium-card {
+  height: 100%;
+}
+
+.gallery-note {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.gallery-image {
+  width: 100%;
+  height: 520px;
+  object-fit: cover;
+  border-radius: 24px;
+  margin-bottom: 12px;
+  flex-shrink: 0;
+}
+
+.gallery-note h3 {
+  margin: 0 0 8px;
+  line-height: 1.15;
+}
+
+.gallery-note p {
+  margin: 0;
+}
+
+.info-grid {
+  align-items: stretch;
+}
+
+.info-grid .card {
+  height: 100%;
+}
+
+/* Tablet */
+@media (max-width: 1080px) {
+  .gallery-image {
+    height: 420px;
+  }
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  .gallery-image {
+    height: 260px;
+    border-radius: 18px;
+  }
+
+  .gallery-note h3 {
+    font-size: 18px;
+  }
+}
