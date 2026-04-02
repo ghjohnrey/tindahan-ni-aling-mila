@@ -1396,11 +1396,11 @@ h1, h2, h3, p, a {
 body {
   background:
     #f7e7d6 url('/assets/images/body-bg.png') repeat;
-  background-size: 420px auto;
+  background-size: 400px 400px;
 }
 
 .hero {
   background:
     #c4b3a3 url('/assets/images/hero-bg.png') repeat;
-  background-size: 420px auto;
+  background-size: 400px 400px;
 }
