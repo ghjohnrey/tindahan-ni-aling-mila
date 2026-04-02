@@ -268,42 +268,47 @@ function renderPagination(totalItems) {
     return;
   }
 
-  let buttons = `
-    <button
-      type="button"
-      class="pagination-btn pagination-nav"
-      data-page="${state.currentPage - 1}"
-      ${state.currentPage === 1 ? 'disabled' : ''}
-    >
-      Prev
-    </button>
-  `;
-
-  for (let page = 1; page <= totalPages; page += 1) {
-    buttons += `
+  elements.pagination.innerHTML = `
+    <div class="pagination-clean">
       <button
         type="button"
-        class="pagination-btn ${page === state.currentPage ? 'active' : ''}"
-        data-page="${page}"
-        aria-current="${page === state.currentPage ? 'page' : 'false'}"
+        class="pagination-btn pagination-nav"
+        data-page="${state.currentPage - 1}"
+        ${state.currentPage === 1 ? 'disabled' : ''}
       >
-        ${page}
+        ← Prev
       </button>
-    `;
-  }
 
-  buttons += `
-    <button
-      type="button"
-      class="pagination-btn pagination-nav"
-      data-page="${state.currentPage + 1}"
-      ${state.currentPage === totalPages ? 'disabled' : ''}
-    >
-      Next
-    </button>
+      <div class="pagination-status">
+        <span>Page</span>
+        <strong>${state.currentPage}</strong>
+        <span>of</span>
+        <strong>${totalPages}</strong>
+      </div>
+
+      <form class="pagination-go-form" id="paginationGoForm">
+        <label for="paginationGoInput" class="sr-only">Go to page</label>
+        <input
+          type="number"
+          id="paginationGoInput"
+          class="pagination-go-input"
+          min="1"
+          max="${totalPages}"
+          placeholder="Go to"
+        />
+        <button type="submit" class="pagination-btn pagination-go-btn">Go</button>
+      </form>
+
+      <button
+        type="button"
+        class="pagination-btn pagination-nav"
+        data-page="${state.currentPage + 1}"
+        ${state.currentPage === totalPages ? 'disabled' : ''}
+      >
+        Next →
+      </button>
+    </div>
   `;
-
-  elements.pagination.innerHTML = `<div class="pagination-inner">${buttons}</div>`;
 
   elements.pagination.querySelectorAll('[data-page]').forEach((button) => {
     button.addEventListener('click', () => {
@@ -321,6 +326,28 @@ function renderPagination(totalItems) {
       }
     });
   });
+
+  const goForm = document.getElementById('paginationGoForm');
+  const goInput = document.getElementById('paginationGoInput');
+
+  if (goForm && goInput) {
+    goForm.addEventListener('submit', (event) => {
+      event.preventDefault();
+
+      const page = Number(goInput.value);
+      if (!page || page < 1 || page > totalPages || page === state.currentPage) {
+        return;
+      }
+
+      state.currentPage = page;
+      applyFilters();
+
+      const catalogSection = document.getElementById('products');
+      if (catalogSection) {
+        catalogSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    });
+  }
 }
 
 function updateMeta(shown, total) {
