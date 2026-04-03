@@ -1799,7 +1799,7 @@
     "product_name": "Asukal Puti 1/2 500g",
     "category": "Powdered Drinks and Instant Coffee",
     "description": "Asukal Puti 1/2 500g is a sugar product commonly used for sweetening drinks and recipes. It dissolves easily and fits into everyday cooking needs. A basic staple for household use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/white-sugar.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -2535,7 +2535,7 @@
     "product_name": "Asukal Wash 1/2 500g",
     "category": "Powdered Drinks and Instant Coffee",
     "description": "Asukal Wash 1/2 500g is a sugar product used for sweetening drinks and recipes. It dissolves easily and fits into everyday cooking needs. A basic staple for household use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/wash-sugar.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -2903,7 +2903,7 @@
     "product_name": "asukal puti 250g",
     "category": "Powdered Drinks and Instant Coffee",
     "description": "asukal puti 250g is a sugar product commonly used for sweetening drinks and recipes. It dissolves easily and fits into daily cooking needs. A basic household staple.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/white-sugar.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -2926,7 +2926,7 @@
     "product_name": "asukal segunda 250g",
     "category": "Powdered Drinks and Instant Coffee",
     "description": "asukal segunda 250g is a sugar product used for general cooking and sweetening. It can be added to drinks or recipes as needed. A practical option for everyday use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/wash-sugar.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -5962,7 +5962,7 @@
     "product_name": "Achuete",
     "category": "Spices",
     "description": "Achuete is a seasoning ingredient commonly used to add color to dishes. It blends easily during cooking. A useful item for everyday kitchen use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/achuete.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -5985,7 +5985,7 @@
     "product_name": "Bulaklak ng Saging",
     "category": "Spices",
     "description": "Bulaklak ng Saging is a fresh ingredient used in various home-cooked dishes. It can be prepared in different ways depending on the recipe. A versatile option for everyday cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bulaklak-ng-saging.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6077,7 +6077,7 @@
     "product_name": "Hershey Powder",
     "category": "Powdered Drinks and Instant Coffee",
     "description": "Hershey is a chocolate product commonly used for snacks or dessert preparation. It can be enjoyed on its own or added to recipes. A convenient option for everyday use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/cocoa-powder.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -10700,7 +10700,7 @@
     "product_name": "Asukal Pula 1/2 500g",
     "category": "Powdered Drinks and Instant Coffee",
     "description": "Asukal Pula 1/2 500g is a sugar product used for sweetening drinks and recipes. It dissolves easily and fits into everyday cooking needs. A basic household staple.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/brown-sugar.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -10838,7 +10838,7 @@
     "product_name": "Ricoa Cocoa",
     "category": "Powdered Drinks and Instant Coffee",
     "description": "Ricoa Cocoa is a beverage ingredient used for preparing drinks or desserts. It mixes easily and works well for everyday recipes. A convenient option for regular use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/cocoa-powder.png",
     "retail": {
       "price": 100,
       "qty": 1,
