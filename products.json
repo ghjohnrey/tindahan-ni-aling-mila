@@ -5801,7 +5801,7 @@
     "product_name": "Malagkit Puro",
     "category": "Rice & Grains",
     "description": "Malagkit Puro is a rice product commonly used in cooking various dishes. It can be prepared in different ways depending on the recipe. A useful staple for everyday meals.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/malagkit.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -5960,7 +5960,7 @@
     "product_id": "item-00416",
     "barcode": "",
     "product_name": "Achuete",
-    "category": "Rice & Grains",
+    "category": "Spices",
     "description": "Achuete is a seasoning ingredient commonly used to add color to dishes. It blends easily during cooking. A useful item for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5983,7 +5983,7 @@
     "product_id": "item-00417",
     "barcode": "",
     "product_name": "Bulaklak ng Saging",
-    "category": "Rice & Grains",
+    "category": "Spices",
     "description": "Bulaklak ng Saging is a fresh ingredient used in various home-cooked dishes. It can be prepared in different ways depending on the recipe. A versatile option for everyday cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6813,7 +6813,7 @@
     "product_name": "Munggo",
     "category": "Rice & Grains",
     "description": "Munggo is a dried goods product commonly used in cooking simple dishes. It can be prepared easily and works well for everyday meals. A useful pantry item.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/monggo.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6859,7 +6859,7 @@
     "product_name": "Golden Dragon",
     "category": "Rice & Grains",
     "description": "Golden Dragon is a noodle product commonly used for cooking meals at home. It’s easy to prepare and suitable for everyday dishes. A practical pantry staple.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bigas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6882,7 +6882,7 @@
     "product_name": "Legendary",
     "category": "Rice & Grains",
     "description": "Legendary is a noodle product used for preparing simple meals. It can be cooked easily and served with basic ingredients. A convenient option for daily cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bigas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -7549,7 +7549,7 @@
     "product_name": "Malagkit",
     "category": "Rice & Grains",
     "description": "Malagkit is a rice product commonly used in preparing various dishes. It can be cooked in different ways depending on the recipe. A useful staple for everyday meals.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/malagkit.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -8952,7 +8952,7 @@
     "product_name": "Wag Wag Bigas",
     "category": "Rice & Grains",
     "description": "Wag Wag Bigas is a rice product commonly used for everyday meals. It can be cooked easily and served with a variety of dishes. A staple item for daily cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bigas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -9366,7 +9366,7 @@
     "product_name": "Kokuyo Rice",
     "category": "Rice & Grains",
     "description": "Kokuyo Rice is a rice product commonly used for everyday meals. It can be cooked easily and served with different dishes. A staple item for daily cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bigas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -9389,7 +9389,7 @@
     "product_name": "Mindoro Rice",
     "category": "Rice & Grains",
     "description": "Mindoro Rice is a rice product suitable for regular home cooking. It works well with various meals and is easy to prepare. A practical option for daily use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bigas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -9412,7 +9412,7 @@
     "product_name": "Ifugao Rice",
     "category": "Rice & Grains",
     "description": "Ifugao Rice is a rice product commonly used for preparing everyday meals. It can be cooked easily and served with simple dishes. A useful staple for regular use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bigas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -9435,7 +9435,7 @@
     "product_name": "Malambot Bigas",
     "category": "Rice & Grains",
     "description": "Malambot Bigas is a rice product often chosen for its texture in everyday meals. It can be prepared easily and paired with different dishes. A reliable option for daily cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bigas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -9711,7 +9711,7 @@
     "product_name": "Maalsa Bigas",
     "category": "Rice & Grains",
     "description": "Maalsa Bigas is a rice product commonly used for daily meals. It can be cooked easily and paired with various dishes. A staple item for everyday cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/bigas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -10723,7 +10723,7 @@
     "product_name": "Munggo 1kl",
     "category": "Rice & Grains",
     "description": "Munggo 1kl is a dried goods product commonly used in cooking simple dishes. It can be prepared easily and works well for everyday meals. A useful pantry item.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/monggo.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -10746,7 +10746,7 @@
     "product_name": "Munggo 1/4 250g",
     "category": "Rice & Grains",
     "description": "Munggo 1/4 250g is a dried goods item suitable for smaller portions in cooking. It’s easy to prepare and fits well into simple recipes. A practical option for daily use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/monggo.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -10769,7 +10769,7 @@
     "product_name": "Munggo 1/2 500g",
     "category": "Rice & Grains",
     "description": "Munggo 1/2 500g is a dried goods product commonly used for preparing everyday meals. It can be cooked easily and served with simple dishes. A convenient pantry staple.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/monggo.png",
     "retail": {
       "price": 100,
       "qty": 1,
