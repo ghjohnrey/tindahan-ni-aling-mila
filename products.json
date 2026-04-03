@@ -118,7 +118,7 @@
     "product_id": "item-00216",
     "barcode": "",
     "product_name": "Hipon",
-    "category": "Frozen Foods",
+    "category": "Dried Foods",
     "description": "Hipon is commonly used in everyday cooking, especially for simple seafood dishes. It can be prepared in different ways depending on the recipe. Often added to soups, stir-fry, or fried meals. A versatile ingredient for home cooking.",
     "image": "/assets/images/item-00216.Image.112830.png",
     "retail": {
@@ -141,7 +141,7 @@
     "product_id": "item-00324",
     "barcode": "4808647210099",
     "product_name": "Calumet Baking Powder 50g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Calumet Baking Powder 50g is used for baking and preparing various recipes at home. It helps baked goods rise properly. Often included in cakes, breads, and mixtures. A useful staple for basic baking needs.",
     "image": "/assets/images/item-00324.Image.104350.png",
     "retail": {
@@ -164,7 +164,7 @@
     "product_id": "item-00283",
     "barcode": "",
     "product_name": "Bread Crumbs Big",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Bread Crumbs Big are often used for coating or adding texture to dishes. They work well for frying and preparing crispy meals. Commonly used in breaded recipes and mixtures. A handy ingredient for everyday cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -187,7 +187,7 @@
     "product_id": "item-00284",
     "barcode": "",
     "product_name": "Bread Crumbs small",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Bread Crumbs small are useful for coating and preparing fried dishes. They help give a crisp texture when cooking. Often used in simple home recipes. A convenient item to have in the kitchen.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -233,7 +233,7 @@
     "product_id": "item-00436",
     "barcode": "",
     "product_name": "Brando Breading Mix",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Brando Breading Mix is commonly used for coating food before frying. It helps create a crisp and even texture when cooked. Often used in simple fried recipes at home. A practical ingredient for everyday cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -256,7 +256,7 @@
     "product_id": "item-00323",
     "barcode": "8996001440049",
     "product_name": "Energen Chocolate",
-    "category": "Powdered Drinks",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Energen Chocolate is a quick and easy drink mix for busy days. Prepare with hot water and it’s ready to enjoy. Often taken as a light meal or snack. A convenient option for everyday consumption.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -1061,7 +1061,7 @@
     "product_id": "8d3ddd5b",
     "barcode": "",
     "product_name": "Holiday corned beef",
-    "category": "Canned Goods",
+    "category": "Frozen Foods",
     "description": "Holiday corned beef is a canned goods item commonly used for quick and simple dishes. It’s easy to cook and pairs well with rice or bread. A reliable option for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -1084,7 +1084,7 @@
     "product_id": "7b86e8fb",
     "barcode": "",
     "product_name": "Bossing Corned beef",
-    "category": "Canned Goods",
+    "category": "Frozen Foods",
     "description": "Bossing Corned beef is a canned goods item commonly used for quick and simple meals. It cooks easily and pairs well with rice or bread. A practical choice for everyday home cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -1130,7 +1130,7 @@
     "product_id": "item-00050",
     "barcode": "4809011507524",
     "product_name": "Dan Yellow Beans Cup",
-    "category": "Canned Goods",
+    "category": "Cooking Essentials",
     "description": "Dan Yellow Beans Cup is a canned goods item that works well for quick servings. It’s easy to prepare and suitable for simple meals at home. A convenient choice for everyday consumption.",
     "image": "/assets/images/item-00050.Image.095536.png",
     "retail": {
@@ -1176,7 +1176,7 @@
     "product_id": "item-00075",
     "barcode": "",
     "product_name": "Coffee-Mate sachet 5g",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Coffee-Mate sachet 5g is a coffee mate product designed to add creaminess to your drink. It mixes easily into coffee for a smoother taste. A convenient option for daily coffee use.",
     "image": "/assets/images/item-00075.Image.132323.png",
     "retail": {
@@ -1199,7 +1199,7 @@
     "product_id": "item-00078",
     "barcode": "4800016022265",
     "product_name": "Great Taste White tp",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Great Taste White tp is a coffee product commonly used for quick and easy preparation. It combines well for a smooth and balanced cup. A practical choice for everyday coffee moments.",
     "image": "/assets/images/item-00078.Image.132435.png",
     "retail": {
@@ -1222,7 +1222,7 @@
     "product_id": "item-00079",
     "barcode": "4800016021039",
     "product_name": "Great Taste White 10's",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Great Taste White 10's is a coffee product packed for convenient daily use. It’s easy to prepare and suitable for quick coffee breaks. A reliable option for regular consumption.",
     "image": "/assets/images/item-00079.Image.132447.png",
     "retail": {
@@ -1245,7 +1245,7 @@
     "product_id": "item-00080",
     "barcode": "",
     "product_name": "Kopiko Brown 10's",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Kopiko Brown 10's is a coffee product that offers a quick and simple way to enjoy coffee. It’s easy to prepare and ideal for daily routines. A handy choice for everyday drinking.",
     "image": "/assets/images/item-00080.Image.132505.png",
     "retail": {
@@ -1268,7 +1268,7 @@
     "product_id": "item-00081",
     "barcode": "8996001410226",
     "product_name": "Kopiko Black 10's",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Kopiko Black 10's is a coffee product suited for straightforward coffee preparation. It can be made quickly without extra steps. A practical option for daily use.",
     "image": "/assets/images/item-00081.Image.132521.png",
     "retail": {
@@ -1291,7 +1291,7 @@
     "product_id": "item-00082",
     "barcode": "8998666001719",
     "product_name": "Kopiko Brown Twin Pack",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Kopiko Brown Twin Pack is a coffee product designed for convenient use anytime. It’s easy to prepare and suitable for quick servings. A reliable choice for everyday coffee needs.",
     "image": "/assets/images/item-00082.Image.132550.png",
     "retail": {
@@ -1314,7 +1314,7 @@
     "product_id": "item-00083",
     "barcode": "8998666001702",
     "product_name": "Kopiko Black Twin Pack",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Kopiko Black Twin Pack is a coffee product that fits well into daily routines. It can be prepared easily and enjoyed anytime. A simple and practical option for coffee drinkers.",
     "image": "/assets/images/item-00083.Image.132635.png",
     "retail": {
@@ -1337,7 +1337,7 @@
     "product_id": "item-00084",
     "barcode": "4800361403764",
     "product_name": "Nescafe 3-in-1 10's",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe 3-in-1 10's is a coffee product that combines coffee, sugar, and creamer in one. It’s easy to prepare and convenient for quick drinks. A dependable choice for everyday use.",
     "image": "/assets/images/item-00084.Image.132655.png",
     "retail": {
@@ -1360,7 +1360,7 @@
     "product_id": "item-00085",
     "barcode": "4800361415347",
     "product_name": "Nescafe 3-in-1 Twin Pack",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe 3-in-1 Twin Pack is a coffee product designed for easy and fast preparation. It’s suitable for daily consumption and quick coffee breaks. A practical option for home or on-the-go use.",
     "image": "/assets/images/item-00085.Image.132726.png",
     "retail": {
@@ -1383,7 +1383,7 @@
     "product_id": "item-00086",
     "barcode": "",
     "product_name": "Kopiko Blanca 10's",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Kopiko Blanca 10's is a coffee product that provides a smooth and easy-to-make drink. It’s convenient for daily routines and simple preparation. A useful option for everyday coffee needs.",
     "image": "/assets/images/item-00086.Image.132752.png",
     "retail": {
@@ -1406,7 +1406,7 @@
     "product_id": "item-00087",
     "barcode": "8998666001726",
     "product_name": "Kopiko Blanca Twin Pack",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Kopiko Blanca Twin Pack is a coffee product made for quick and convenient use. It’s easy to prepare and suitable for regular consumption. A handy choice for daily coffee moments.",
     "image": "/assets/images/item-00087.Image.132822.png",
     "retail": {
@@ -1429,7 +1429,7 @@
     "product_id": "item-00090",
     "barcode": "4800361339186",
     "product_name": "Nescafe Classic25g",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe Classic25g is a coffee product commonly used for straightforward preparation. It can be mixed easily for a simple cup anytime. A practical option for daily coffee use.",
     "image": "/assets/images/item-00090.Image.132902.png",
     "retail": {
@@ -1452,7 +1452,7 @@
     "product_id": "item-00091",
     "barcode": "4800361393645",
     "product_name": "Nescafe Classic 46g",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe Classic 46g is a coffee product suitable for regular home preparation. It’s easy to use and works well for everyday coffee needs. A reliable choice for simple routines.",
     "image": "/assets/images/item-00091.Image.132932.png",
     "retail": {
@@ -1475,7 +1475,7 @@
     "product_id": "item-00092",
     "barcode": "4800361393669",
     "product_name": "Nescafe Classic 185g",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe Classic 185g is a coffee product suitable for regular home preparation. It’s easy to mix and works well for daily coffee routines. A reliable option for simple and consistent use.",
     "image": "/assets/images/item-00092.Image.132958.png",
     "retail": {
@@ -1498,7 +1498,7 @@
     "product_id": "item-00093",
     "barcode": "",
     "product_name": "Nescafe Creamy White 10's",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe Creamy White 10's is a coffee product designed for quick and convenient preparation. It provides a smooth cup with minimal effort. A practical choice for everyday coffee moments.",
     "image": "/assets/images/item-00093.Image.133021.png",
     "retail": {
@@ -1521,7 +1521,7 @@
     "product_id": "item-00094",
     "barcode": "4800361416726",
     "product_name": "Nescafe Creamy White Twin Pack",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe Creamy White Twin Pack is a coffee product made for easy use at home or on the go. It’s simple to prepare and fits well into daily routines. A handy option for quick coffee breaks.",
     "image": "/assets/images/item-00094.Image.133052.png",
     "retail": {
@@ -1544,7 +1544,7 @@
     "product_id": "item-00096",
     "barcode": "",
     "product_name": "Plastic Cups 8oz",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Plastic Cups 8oz is a plastic product commonly used for serving beverages. It’s convenient for daily use, gatherings, or small events. A practical choice for easy serving and cleanup.",
     "image": "/assets/images/item-00096.Image.133111.png",
     "retail": {
@@ -1705,7 +1705,7 @@
     "product_id": "item-00349",
     "barcode": "",
     "product_name": "Nescafe Decaf 25grams",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe Decaf 25grams is a coffee product designed for simple preparation. It’s easy to mix and suitable for those who prefer a lighter coffee option. A convenient choice for daily routines.",
     "image": "/assets/images/item-00349.Image.104128.png",
     "retail": {
@@ -1728,7 +1728,7 @@
     "product_id": "item-00383",
     "barcode": "4800361380737",
     "product_name": "Coffee Mate 400g",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Coffee Mate 400g is a coffee mate product used to add creaminess to coffee. It mixes easily and enhances the texture of your drink. A useful addition for everyday coffee use.",
     "image": "/assets/images/item-00383.Image.103955.png",
     "retail": {
@@ -1751,7 +1751,7 @@
     "product_id": "item-00384",
     "barcode": "4800361390804",
     "product_name": "Coffee Mate 170g",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Coffee Mate 170g is a coffee mate item suitable for regular coffee preparation. It blends smoothly and is easy to use. A practical option for daily coffee routines.",
     "image": "/assets/images/item-00384.Image.103943.png",
     "retail": {
@@ -1774,7 +1774,7 @@
     "product_id": "item-00385",
     "barcode": "4800361339568",
     "product_name": "Nescafe Stick",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Nescafe Stick is a coffee product made for quick and convenient use. It’s easy to prepare anytime without extra steps. A handy option for everyday coffee moments.",
     "image": "/assets/images/item-00385.Image.103932.png",
     "retail": {
@@ -1797,7 +1797,7 @@
     "product_id": "item-00049",
     "barcode": "",
     "product_name": "Asukal Puti 1/2 500g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Asukal Puti 1/2 500g is a sugar product commonly used for sweetening drinks and recipes. It dissolves easily and fits into everyday cooking needs. A basic staple for household use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -1866,7 +1866,7 @@
     "product_id": "item-00045",
     "barcode": "4805885171007",
     "product_name": "Reno sml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Canned Goods",
     "description": "Reno sml is a canned goods item commonly used as a spread or ingredient in simple dishes. It’s easy to use and works well for quick meal preparation. A practical option for everyday pantry use.",
     "image": "/assets/images/item-00045.Image.095518.png",
     "retail": {
@@ -1889,7 +1889,7 @@
     "product_id": "item-00055",
     "barcode": "4801668602218",
     "product_name": "Datu Puti Toyo Pouch 100ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Toyo Pouch 100ml is a condiment used for seasoning and enhancing the flavor of meals. It works well for cooking, marinating, or as a dipping sauce. A convenient choice for everyday kitchen use.",
     "image": "/assets/images/item-00055.Image.105801.png",
     "retail": {
@@ -1912,7 +1912,7 @@
     "product_id": "item-00060",
     "barcode": "4801668500224",
     "product_name": "Datu Puti Toyo 1 ltr",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Toyo 1 ltr is a condiment commonly used in cooking and food preparation. It adds flavor to a wide range of dishes and is easy to use. A reliable staple for daily cooking needs.",
     "image": "/assets/images/item-00060.Image.110127.png",
     "retail": {
@@ -1935,7 +1935,7 @@
     "product_id": "item-00061",
     "barcode": "",
     "product_name": "Datu Puti Toyo Bottle 385ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Toyo Bottle 385ml is a condiment suitable for regular kitchen use. It can be used for marinating, cooking, or as a dipping sauce. A practical option for everyday meals.",
     "image": "/assets/images/item-00061.Image.110201.png",
     "retail": {
@@ -1958,7 +1958,7 @@
     "product_id": "item-00062",
     "barcode": "",
     "product_name": "Datu Puti Patis Pouch 150ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Patis Pouch 150ml is a condiment often used to enhance the taste of dishes. It’s commonly added during cooking or used as a dipping sauce. A useful item for daily meal preparation.",
     "image": "/assets/images/item-00062.Image.110240.png",
     "retail": {
@@ -1981,7 +1981,7 @@
     "product_id": "item-00066",
     "barcode": "4800344001628",
     "product_name": "Silver Swan Toyo 1 ltr",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Toyo 1 ltr is a condiment widely used for seasoning and cooking. It blends well into various dishes and recipes. A dependable choice for everyday kitchen use.",
     "image": "/assets/images/item-00066.Image.110419.png",
     "retail": {
@@ -2004,7 +2004,7 @@
     "product_id": "item-00068",
     "barcode": "4800344004964",
     "product_name": "Silver Swan Suka Pouch Sulit 100ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Suka Pouch Sulit 100ml is a condiment commonly used for dipping and cooking. It adds a sharp flavor to everyday meals. A convenient option for regular use.",
     "image": "/assets/images/item-00068.Image.110501.png",
     "retail": {
@@ -2027,7 +2027,7 @@
     "product_id": "item-00069",
     "barcode": "4800344001963",
     "product_name": "Silver Swan Toyo Pouch 100ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Toyo Pouch 100ml is a condiment designed for easy and practical use. It works well for cooking or as a dipping sauce. A handy item for everyday kitchen needs.",
     "image": "/assets/images/item-00069.Image.110527.png",
     "retail": {
@@ -2050,7 +2050,7 @@
     "product_id": "item-00070",
     "barcode": "4800344004940",
     "product_name": "Silver Swan Suka Pouch 200ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Suka Pouch 200ml is a condiment used in cooking and food preparation. It pairs well with a variety of dishes. A practical addition to your kitchen essentials.",
     "image": "/assets/images/item-00070.Image.110618.png",
     "retail": {
@@ -2073,7 +2073,7 @@
     "product_id": "item-00071",
     "barcode": "4800344001949",
     "product_name": "Silver Swan Toyo Pouch 200ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Toyo Pouch 200ml is a condiment suitable for daily cooking use. It helps enhance the flavor of simple meals. A reliable option for regular preparation.",
     "image": "/assets/images/item-00071.Image.110711.png",
     "retail": {
@@ -2096,7 +2096,7 @@
     "product_id": "item-00114",
     "barcode": "",
     "product_name": "Salted Egg",
-    "category": "Frozen Foods",
+    "category": "Cooking Essentials",
     "description": "Salted Egg is a fresh food item commonly used in everyday dishes. It can be served on its own or added to recipes for extra flavor. A simple and versatile ingredient for home cooking.",
     "image": "/assets/images/item-00114.Image.133554.png",
     "retail": {
@@ -2119,7 +2119,7 @@
     "product_id": "item-00144",
     "barcode": "",
     "product_name": "Crispy Fry Original Party Pack",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy Fry Original Party Pack is a seasoning mix used for coating food before frying. It helps create a crisp texture during cooking. A convenient option for preparing fried dishes at home.",
     "image": "/assets/images/item-00144.Image.134408.png",
     "retail": {
@@ -2142,7 +2142,7 @@
     "product_id": "item-00153",
     "barcode": "",
     "product_name": "Sili Labuyo",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Sili Labuyo is a fresh ingredient often used to add heat to dishes. It can be included in cooking or used as a topping. A common item for everyday food preparation.",
     "image": "/assets/images/item-00153.Image.130903.png",
     "retail": {
@@ -2165,7 +2165,7 @@
     "product_id": "item-00155",
     "barcode": "",
     "product_name": "Siling Panigang",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Siling Panigang is a fresh ingredient typically used for cooking and adding mild heat to dishes. It’s often included in soups and simple recipes. A useful item for regular kitchen use.",
     "image": "/assets/images/item-00155.Image.130923.png",
     "retail": {
@@ -2188,7 +2188,7 @@
     "product_id": "item-00166",
     "barcode": "",
     "product_name": "Patatas",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Patatas is a fresh ingredient commonly used in a variety of dishes. It can be cooked in different ways depending on the recipe. A versatile staple for everyday meals.",
     "image": "/assets/images/item-00166.Image.131137.png",
     "retail": {
@@ -2211,7 +2211,7 @@
     "product_id": "item-00189",
     "barcode": "4806512023522",
     "product_name": "Mama Sita's Oyster 90g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mama Sita's Oyster 90g is a condiment used to add flavor to cooked dishes. It blends easily into recipes and is often used during cooking. A practical option for everyday use.",
     "image": "/assets/images/item-00189.Image.131459.png",
     "retail": {
@@ -2234,7 +2234,7 @@
     "product_id": "item-00190",
     "barcode": "4806512026387",
     "product_name": "Mama Sita's Oyster 60g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mama Sita's Oyster 60g is a condiment suitable for simple meal preparation. It helps enhance the taste of various dishes. A convenient choice for daily cooking.",
     "image": "/assets/images/item-00190.Image.131512.png",
     "retail": {
@@ -2257,7 +2257,7 @@
     "product_id": "item-00193",
     "barcode": "4801958639009",
     "product_name": "Sarsaya Oyster 90g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Sarsaya Oyster 90g is a condiment commonly used for cooking and seasoning. It adds flavor to everyday meals and is easy to use. A reliable kitchen staple.",
     "image": "/assets/images/item-00193.Image.131552.png",
     "retail": {
@@ -2280,7 +2280,7 @@
     "product_id": "item-00195",
     "barcode": "4801958300107",
     "product_name": "Ajinomoto Betchin 10g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Ajinomoto Betchin 10g is a seasoning product commonly used to enhance the taste of everyday dishes. It can be added during cooking for better flavor. A simple and practical choice for daily meal preparation.",
     "image": "/assets/images/item-00195.Image.134725.png",
     "retail": {
@@ -2303,7 +2303,7 @@
     "product_id": "item-00196",
     "barcode": "4801958342008",
     "product_name": "Ajinomoto Betchin 22g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Ajinomoto Betchin 22g is a seasoning product used for adding flavor to a variety of dishes. It blends easily into cooking without extra steps. A convenient option for everyday kitchen use.",
     "image": "/assets/images/item-00196.Image.134738.png",
     "retail": {
@@ -2326,7 +2326,7 @@
     "product_id": "item-00197",
     "barcode": "4801958146002",
     "product_name": "Ajinomoto Betchin 50g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Ajinomoto Betchin 50g is a seasoning item often used in regular cooking. It helps improve the taste of simple meals. A useful addition for daily food preparation.",
     "image": "/assets/images/item-00197.Image.134747.png",
     "retail": {
@@ -2349,7 +2349,7 @@
     "product_id": "item-00198",
     "barcode": "",
     "product_name": "Ajinomoto Betchin 100g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Ajinomoto Betchin 100g is a seasoning product suitable for frequent cooking at home. It mixes easily into different dishes. A reliable option for enhancing everyday meals.",
     "image": "/assets/images/item-00198.Image.134755.png",
     "retail": {
@@ -2372,7 +2372,7 @@
     "product_id": "item-00199",
     "barcode": "",
     "product_name": "Ajinomoto Betchin 250g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Ajinomoto Betchin 250g is a seasoning product ideal for regular use in the kitchen. It can be added to many types of dishes for better flavor. A practical staple for everyday cooking.",
     "image": "/assets/images/item-00199.Image.134808.png",
     "retail": {
@@ -2395,7 +2395,7 @@
     "product_id": "item-00225",
     "barcode": "14285003656",
     "product_name": "UFC Catsup Pouch 200g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "UFC Catsup Pouch 200g is a condiment commonly used for dipping and adding flavor to meals. It pairs well with fried foods and simple dishes. A convenient option for everyday serving.",
     "image": "/assets/images/item-00225.Image.112922.png",
     "retail": {
@@ -2418,7 +2418,7 @@
     "product_id": "item-00227",
     "barcode": "4801668100264",
     "product_name": "Mang Tomas Bottle 325g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mang Tomas Bottle 325g is a condiment often used as a dipping sauce or for adding flavor to meals. It works well with a variety of dishes. A practical choice for daily use.",
     "image": "/assets/images/item-00227.Image.112945.png",
     "retail": {
@@ -2441,7 +2441,7 @@
     "product_id": "item-00229",
     "barcode": "4801668100288",
     "product_name": "Mang Tomas Spicy Bottle 325g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mang Tomas Spicy Bottle 325g is a condiment used to add a bit of heat and flavor to food. It’s suitable for dipping or enhancing meals. A convenient option for everyday cooking.",
     "image": "/assets/images/item-00229.Image.113013.png",
     "retail": {
@@ -2464,7 +2464,7 @@
     "product_id": "item-00242",
     "barcode": "",
     "product_name": "Datu Puti Patis 350ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Patis 350ml is a condiment commonly used in cooking and seasoning. It helps bring out the flavor of everyday dishes. A useful addition to your kitchen essentials.",
     "image": "/assets/images/item-00242.Image.135104.png",
     "retail": {
@@ -2487,7 +2487,7 @@
     "product_id": "item-00344",
     "barcode": "",
     "product_name": "Datu Puti Doblepack Litro",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Doblepack Litro is a condiment set used for everyday cooking and food preparation. It provides basic seasoning needs for various dishes. A practical option for regular kitchen use.",
     "image": "/assets/images/item-00344.Image.104157.png",
     "retail": {
@@ -2510,7 +2510,7 @@
     "product_id": "item-00345",
     "barcode": "",
     "product_name": "Silver Swan Doblepack Litro",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Doblepack Litro is a condiment pack commonly used for cooking and seasoning. It works well with a variety of meals. A reliable choice for daily use.",
     "image": "/assets/images/item-00345.Image.104149.png",
     "retail": {
@@ -2533,7 +2533,7 @@
     "product_id": "item-00047",
     "barcode": "",
     "product_name": "Asukal Wash 1/2 500g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Asukal Wash 1/2 500g is a sugar product used for sweetening drinks and recipes. It dissolves easily and fits into everyday cooking needs. A basic staple for household use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2556,7 +2556,7 @@
     "product_id": "item-00233",
     "barcode": "",
     "product_name": "Quality Toyo Gallon",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Quality Toyo Gallon is a condiment used for cooking, marinating, and dipping. It’s suitable for larger volume use in the kitchen. A practical option for regular food preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2579,7 +2579,7 @@
     "product_id": "item-00234",
     "barcode": "",
     "product_name": "Quality Suka Gallon",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Quality Suka Gallon is a condiment commonly used for cooking and dipping. It adds a distinct flavor to many dishes. A convenient choice for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2602,7 +2602,7 @@
     "product_id": "item-00241",
     "barcode": "",
     "product_name": "Pares Silver toyo/suka 1 liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Pares Silver toyo/suka 1 liter is a condiment combination used for seasoning and dipping. It works well for everyday meals and simple recipes. A practical addition to kitchen essentials.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2625,7 +2625,7 @@
     "product_id": "item-00245",
     "barcode": "",
     "product_name": "Coconut Oil 1kl",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Coconut Oil 1kl is a cooking oil commonly used for frying and food preparation. It can be applied in a variety of dishes. A useful staple for everyday cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2648,7 +2648,7 @@
     "product_id": "item-00246",
     "barcode": "",
     "product_name": "Coconut Oil 500g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Coconut Oil 500g is a cooking oil suitable for regular use in the kitchen. It works well for frying and simple cooking needs. A practical option for daily meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2671,7 +2671,7 @@
     "product_id": "item-00248",
     "barcode": "",
     "product_name": "Palm Oil 500g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Palm Oil 500g is a cooking oil used for frying and preparing food. It’s easy to use and fits into everyday cooking routines. A reliable choice for basic kitchen needs.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2694,7 +2694,7 @@
     "product_id": "item-00249",
     "barcode": "",
     "product_name": "Coconut Oil 1ltr",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Coconut Oil 1ltr is a cooking oil commonly used for frying and everyday food preparation. It works well for simple dishes at home. A practical staple for regular kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2717,7 +2717,7 @@
     "product_id": "item-00250",
     "barcode": "",
     "product_name": "Coconut Oil 500ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Coconut Oil 500ml is a cooking oil suitable for daily use in smaller portions. It can be used for frying or basic cooking needs. A convenient option for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2740,7 +2740,7 @@
     "product_id": "item-00251",
     "barcode": "",
     "product_name": "Coconut Oil 350ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Coconut Oil 350ml is a cooking oil ideal for light and regular kitchen use. It’s easy to use for simple frying and food preparation. A handy item for everyday cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2763,7 +2763,7 @@
     "product_id": "item-00252",
     "barcode": "",
     "product_name": "Palm Oil 1ltr",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Palm Oil 1ltr is a cooking oil commonly used for frying and preparing meals. It fits well into daily kitchen routines. A reliable choice for regular cooking needs.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2786,7 +2786,7 @@
     "product_id": "item-00253",
     "barcode": "",
     "product_name": "Coconut Oil 10",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Coconut Oil 10 is a cooking oil portion used for everyday food preparation. It can be used for simple frying and cooking. A practical option for daily kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2809,7 +2809,7 @@
     "product_id": "item-00254",
     "barcode": "",
     "product_name": "Coconut Oil 20",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Coconut Oil 20 is a cooking oil portion suitable for regular cooking needs. It works well for frying and basic meal preparation. A convenient choice for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2832,7 +2832,7 @@
     "product_id": "item-00255",
     "barcode": "",
     "product_name": "Coconut Oil 30",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Coconut Oil 30 is a cooking oil portion used for simple and quick cooking. It fits well into daily meal preparation. A useful item for regular kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2855,7 +2855,7 @@
     "product_id": "item-00337",
     "barcode": "",
     "product_name": "Aluminum Foil 5m",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Aluminum Foil 5m is a kitchen item used for wrapping and covering food. It helps in storing or preparing meals with ease. A practical tool for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2878,7 +2878,7 @@
     "product_id": "item-00450",
     "barcode": "",
     "product_name": "Datu Puti Toyo 200ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Toyo 200ml is a condiment used for cooking, marinating, and dipping. It adds flavor to a variety of dishes. A reliable choice for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2901,7 +2901,7 @@
     "product_id": "23e5e72e",
     "barcode": "",
     "product_name": "asukal puti 250g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "asukal puti 250g is a sugar product commonly used for sweetening drinks and recipes. It dissolves easily and fits into daily cooking needs. A basic household staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2924,7 +2924,7 @@
     "product_id": "0d766036",
     "barcode": "",
     "product_name": "asukal segunda 250g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "asukal segunda 250g is a sugar product used for general cooking and sweetening. It can be added to drinks or recipes as needed. A practical option for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2947,7 +2947,7 @@
     "product_id": "8c1f78ab",
     "barcode": "",
     "product_name": "silverswan toyo litro",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "silverswan toyo litro is a condiment commonly used for seasoning and cooking. It blends well into everyday dishes. A convenient choice for regular kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2970,7 +2970,7 @@
     "product_id": "703aa458",
     "barcode": "",
     "product_name": "silverswan suka litro",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "silverswan suka litro is a condiment used for cooking and dipping. It adds flavor to simple meals and recipes. A useful addition to your kitchen essentials.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -2993,7 +2993,7 @@
     "product_id": "090f2661",
     "barcode": "",
     "product_name": "Datu Puti Suka Litro",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Suka Litro is a condiment commonly used for everyday cooking and dipping. It works well with a variety of dishes. A reliable option for regular use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -3016,7 +3016,7 @@
     "product_id": "c28d33d8",
     "barcode": "",
     "product_name": "Datu Puti Toyo Litro",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Toyo Litro is a condiment suitable for daily cooking and food preparation. It helps enhance the flavor of simple meals. A practical kitchen staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -3131,7 +3131,7 @@
     "product_id": "item-00358",
     "barcode": "4800300300017",
     "product_name": "Queen Baking Soda 125g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Queen Baking Soda 125g is a baking ingredient commonly used in preparing baked goods and recipes. It helps improve texture during cooking. A useful item for everyday kitchen needs.",
     "image": "/assets/images/asfsf.Image.081943.png",
     "retail": {
@@ -3453,7 +3453,7 @@
     "product_id": "item-00046",
     "barcode": "4805885172004",
     "product_name": "Reno Big",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Canned Goods",
     "description": "Reno Big is a canned goods product commonly used as a spread or ingredient in simple dishes. It’s easy to use and fits well into everyday meals. A practical pantry staple.",
     "image": "/assets/images/item-00046.Image.083040.png",
     "retail": {
@@ -3476,7 +3476,7 @@
     "product_id": "item-00052",
     "barcode": "4800344040191",
     "product_name": "Silverswan Black Beans Sachet",
-    "category": "Canned Goods",
+    "category": "Cooking Essentials",
     "description": "Silverswan Black Beans Sachet is a condiment used for cooking and adding flavor to dishes. It blends easily into recipes with minimal preparation. A convenient option for everyday kitchen use.",
     "image": "/assets/images/item-00052.Image.095711.png",
     "retail": {
@@ -3499,7 +3499,7 @@
     "product_id": "item-00053",
     "barcode": "4800344040122",
     "product_name": "Silverswan Black Beans pouch",
-    "category": "Canned Goods",
+    "category": "Cooking Essentials",
     "description": "Silverswan Black Beans pouch is a condiment product commonly used in cooking and seasoning. It works well with a variety of dishes. A reliable choice for daily meal preparation.",
     "image": "/assets/images/item-00053.Image.095634.png",
     "retail": {
@@ -3522,7 +3522,7 @@
     "product_id": "item-00064",
     "barcode": "",
     "product_name": "Datu Puti Patis 1 ltr",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Patis 1 ltr is a condiment used for seasoning and enhancing the flavor of meals. It’s suitable for cooking, marinating, or dipping. A practical staple for everyday kitchen use.",
     "image": "/assets/images/item-00064.Image.110330.png",
     "retail": {
@@ -3545,7 +3545,7 @@
     "product_id": "item-00067",
     "barcode": "",
     "product_name": "Silver Swan Patis 1 liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Patis 1 liter is a condiment commonly used in regular cooking. It helps bring out the taste of simple dishes. A convenient option for daily food preparation.",
     "image": "/assets/images/item-00067.Image.130205.png",
     "retail": {
@@ -3568,7 +3568,7 @@
     "product_id": "item-00089",
     "barcode": "4800361420129",
     "product_name": "Magic Sarap 55g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Magic Sarap 55g is a seasoning product used to enhance the flavor of everyday dishes. It can be added during cooking for better taste. A useful item for regular kitchen use.",
     "image": "/assets/images/item-00089.Image.132835.png",
     "retail": {
@@ -3591,7 +3591,7 @@
     "product_id": "item-00099",
     "barcode": "",
     "product_name": "Styro Bowl Big (100pcs)",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Styro Bowl Big (100pcs) is a plastic product used for serving food in larger portions. It’s convenient for gatherings, takeout, or daily use. A practical choice for easy serving and cleanup.",
     "image": "/assets/images/item-00099.Image.133256.png",
     "retail": {
@@ -3614,7 +3614,7 @@
     "product_id": "item-00106",
     "barcode": "",
     "product_name": "Plastic 8 by 12",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Plastic 8 by 12 is a plastic product commonly used for packaging and storing items. It’s simple to use and suitable for everyday needs. A handy item for regular use.",
     "image": "/assets/images/item-00106.Image.133506.png",
     "retail": {
@@ -3706,7 +3706,7 @@
     "product_id": "item-00132",
     "barcode": "4800888602725",
     "product_name": "Knorr Cubes Pork",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Cubes Pork is a seasoning product used to enhance the flavor of dishes. It dissolves easily during cooking and adds depth to meals. A useful staple for everyday kitchen use.",
     "image": "/assets/images/item-00132.Image.133616.png",
     "retail": {
@@ -3729,7 +3729,7 @@
     "product_id": "item-00134",
     "barcode": "4800888600219",
     "product_name": "Knorr Sinigang sa Miso 1 Liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Knorr Sinigang sa Miso 1 Liter is a seasoning mix used for preparing soup dishes at home. It’s easy to use and helps create a consistent flavor in cooking. A practical option for everyday meal preparation.",
     "image": "/assets/images/item-00134.Image.133709.png",
     "retail": {
@@ -3752,7 +3752,7 @@
     "product_id": "item-00135",
     "barcode": "4800888603180",
     "product_name": "Knorr Sinigang sa Isda 1/2 Liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Knorr Sinigang sa Isda 1/2 Liter is a seasoning product commonly used for cooking soup dishes. It simplifies preparation and works well for quick meals. A convenient choice for regular kitchen use.",
     "image": "/assets/images/item-00135.Image.133733.png",
     "retail": {
@@ -3775,7 +3775,7 @@
     "product_id": "item-00136",
     "barcode": "4800888600790",
     "product_name": "Knorr Sinigang Original 1 Liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Knorr Sinigang Original 1 Liter is a seasoning mix designed for everyday cooking. It’s easy to prepare and helps bring out the flavor of simple dishes. A reliable option for daily use.",
     "image": "/assets/images/item-00136.Image.133759.png",
     "retail": {
@@ -3798,7 +3798,7 @@
     "product_id": "item-00137",
     "barcode": "4808680652146",
     "product_name": "Knorr Sinigang sa Gabi 1 Liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Knorr Sinigang sa Gabi 1 Liter is a seasoning product used for preparing soup-based meals. It blends easily into cooking and requires minimal effort. A practical addition to everyday kitchen needs.",
     "image": "/assets/images/item-00137.Image.133823.png",
     "retail": {
@@ -3821,7 +3821,7 @@
     "product_id": "item-00139",
     "barcode": "4800888600806",
     "product_name": "Knorr Sinigang Original 2 Liters",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Knorr Sinigang Original 2 Liters is a seasoning mix suitable for larger meal preparation. It’s simple to use and helps maintain consistent flavor in dishes. A convenient option for family servings.",
     "image": "/assets/images/item-00139.Image.134111.png",
     "retail": {
@@ -3844,7 +3844,7 @@
     "product_id": "item-00141",
     "barcode": "",
     "product_name": "Tasty Boy Garlic 67g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Tasty Boy Garlic 67g is a seasoning product commonly used to add flavor to cooked dishes. It can be mixed easily during food preparation. A useful item for everyday cooking.",
     "image": "/assets/images/item-00141.Image.134204.png",
     "retail": {
@@ -3867,7 +3867,7 @@
     "product_id": "item-00143",
     "barcode": "4801958395004",
     "product_name": "Crispy Fry Garlic Party Pack",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy Fry Garlic Party Pack is a breading mix used for coating food before frying. It helps create a crisp texture during cooking. A practical choice for preparing fried dishes at home.",
     "image": "/assets/images/item-00143.Image.134338.png",
     "retail": {
@@ -3913,7 +3913,7 @@
     "product_id": "item-00154",
     "barcode": "",
     "product_name": "Sibuyas",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Sibuyas is a fresh ingredient commonly used in cooking to add flavor to dishes. It can be included in a variety of recipes. A basic staple for everyday meal preparation.",
     "image": "/assets/images/item-00154.Image.130913.png",
     "retail": {
@@ -3936,7 +3936,7 @@
     "product_id": "item-00159",
     "barcode": "",
     "product_name": "Luya",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Luya is a fresh ingredient often used in cooking for added flavor. It can be used in different dishes depending on the recipe. A useful item for regular kitchen use.",
     "image": "/assets/images/item-00159.Image.131018.png",
     "retail": {
@@ -3959,7 +3959,7 @@
     "product_id": "item-00163",
     "barcode": "",
     "product_name": "Lettuce",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Lettuce is a fresh ingredient commonly used for salads or as a side. It’s easy to prepare and suitable for everyday meals. A simple addition to home cooking.",
     "image": "/assets/images/item-00163.Image.131107.png",
     "retail": {
@@ -3982,7 +3982,7 @@
     "product_id": "item-00164",
     "barcode": "",
     "product_name": "Lumpia Wrapper",
-    "category": "Frozen Foods",
+    "category": "Special",
     "description": "Lumpia Wrapper is a fresh product used for preparing wrapped dishes. It’s easy to use and suitable for home cooking. A practical item for everyday meal preparation.",
     "image": "/assets/images/item-00164.Image.131117.png",
     "retail": {
@@ -4005,7 +4005,7 @@
     "product_id": "item-00165",
     "barcode": "",
     "product_name": "Molo Wrapper",
-    "category": "Frozen Foods",
+    "category": "special",
     "description": "Molo Wrapper is a fresh product commonly used for preparing filled dishes. It works well for simple recipes at home. A convenient option for everyday use.",
     "image": "/assets/images/item-00165.Image.131128.png",
     "retail": {
@@ -4028,7 +4028,7 @@
     "product_id": "item-00167",
     "barcode": "",
     "product_name": "Beans",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Beans is a fresh ingredient used in a variety of dishes. It can be cooked in different ways depending on the recipe. A versatile item for everyday cooking.",
     "image": "/assets/images/item-00167.Image.131147.png",
     "retail": {
@@ -4051,7 +4051,7 @@
     "product_id": "item-00168",
     "barcode": "",
     "product_name": "Crispy Fry Original 30g(1/2 kilo of meat)",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy Fry Original 30g(1/2 kilo of meat) is a breading mix used for coating meat before frying. It helps create a crisp texture during cooking. A practical option for everyday fried dishes.",
     "image": "/assets/images/item-00168.Image.112410.png",
     "retail": {
@@ -4074,7 +4074,7 @@
     "product_id": "item-00169",
     "barcode": "",
     "product_name": "Crispy Fry Fish 20g (1/2 kilo)",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy Fry Fish 20g (1/2 kilo) is a breading mix designed for coating fish before frying. It’s easy to use and helps achieve a crispy finish. A convenient choice for simple home cooking.",
     "image": "/assets/images/item-00169.Image.134615.png",
     "retail": {
@@ -4097,7 +4097,7 @@
     "product_id": "item-00170",
     "barcode": "",
     "product_name": "Del Monte Tomato Sauce 115g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Del Monte Tomato Sauce 115g is a condiment commonly used in cooking various dishes. It adds flavor and blends easily into recipes. A useful staple for everyday kitchen use.",
     "image": "/assets/images/item-00170.Image.131158.png",
     "retail": {
@@ -4120,7 +4120,7 @@
     "product_id": "item-00171",
     "barcode": "4800024555496",
     "product_name": "Del Monte Tomato Sauce 200g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Del Monte Tomato Sauce 200g is a condiment suitable for regular meal preparation. It works well in a variety of simple dishes. A practical option for daily cooking.",
     "image": "/assets/images/item-00171.Image.131206.png",
     "retail": {
@@ -4143,7 +4143,7 @@
     "product_id": "item-00172",
     "barcode": "4800024556929",
     "product_name": "Del Monte Tomato Sauce 250g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Del Monte Tomato Sauce 250g is a condiment often used for enhancing the flavor of meals. It mixes easily into different recipes. A reliable choice for everyday use.",
     "image": "/assets/images/item-00172.Image.131217.png",
     "retail": {
@@ -4166,7 +4166,7 @@
     "product_id": "item-00173",
     "barcode": "4800024556899",
     "product_name": "Del Monte Tomato Paste 150g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Del Monte Tomato Paste 150g is a condiment used to add richness and flavor to cooked dishes. It can be mixed easily into recipes. A handy ingredient for regular cooking.",
     "image": "/assets/images/item-00173.Image.131226.png",
     "retail": {
@@ -4189,7 +4189,7 @@
     "product_id": "item-00174",
     "barcode": "4800024561015",
     "product_name": "Del Monte Tomato Paste 70g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Del Monte Tomato Paste 70g is a condiment suitable for smaller portions in cooking. It helps enhance the taste of simple dishes. A convenient option for everyday use.",
     "image": "/assets/images/item-00174.Image.131238.png",
     "retail": {
@@ -4212,7 +4212,7 @@
     "product_id": "item-00176",
     "barcode": "",
     "product_name": "UFC Caldereta Sauce 200g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "UFC Caldereta Sauce 200g is a cooking sauce used for preparing everyday dishes. It simplifies meal preparation and adds flavor easily. A practical choice for home cooking.",
     "image": "/assets/images/item-00176.Image.131247.png",
     "retail": {
@@ -4235,7 +4235,7 @@
     "product_id": "item-00177",
     "barcode": "14285004202",
     "product_name": "UFC Menudo Sauce 200g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "UFC Menudo Sauce 200g is a cooking sauce commonly used for simple meal preparation. It blends well into recipes with minimal effort. A convenient option for daily use.",
     "image": "/assets/images/item-00177.Image.131256.png",
     "retail": {
@@ -4258,7 +4258,7 @@
     "product_id": "item-00178",
     "barcode": "",
     "product_name": "UFC Afritada Sauce 200g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "UFC Afritada Sauce 200g is a cooking sauce designed for easy preparation of dishes. It helps add flavor without complicated steps. A useful addition to your kitchen.",
     "image": "/assets/images/item-00178.Image.131303.png",
     "retail": {
@@ -4281,7 +4281,7 @@
     "product_id": "item-00180",
     "barcode": "25407803603",
     "product_name": "Mama Sita's Caldereta 40g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Mama Sita's Caldereta 40g is a seasoning mix used for cooking everyday meals. It’s easy to use and blends well into dishes. A practical choice for home cooking.",
     "image": "/assets/images/item-00180.Image.131321.png",
     "retail": {
@@ -4304,7 +4304,7 @@
     "product_id": "item-00184",
     "barcode": "25407803313",
     "product_name": "Mama Sitas's Kare-Kare 40g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Mama Sitas's Kare-Kare 40g is a seasoning mix suitable for preparing dishes at home. It simplifies cooking and adds flavor easily. A convenient option for daily use.",
     "image": "/assets/images/item-00184.Image.131347.png",
     "retail": {
@@ -4327,7 +4327,7 @@
     "product_id": "item-00186",
     "barcode": "",
     "product_name": "Mama Sita's Bayabas 40g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Mama Sita's Bayabas 40g is a seasoning mix commonly used for cooking and flavoring dishes. It blends easily during preparation. A useful item for everyday kitchen use.",
     "image": "/assets/images/item-00186.Image.131410.png",
     "retail": {
@@ -4350,7 +4350,7 @@
     "product_id": "item-00188",
     "barcode": "4804888809474",
     "product_name": "Mama Sita's Oyster 30g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mama Sita's Oyster 30g is a condiment used to enhance the taste of cooked dishes. It works well in various recipes. A reliable option for everyday cooking.",
     "image": "/assets/images/item-00188.Image.131441.png",
     "retail": {
@@ -4373,7 +4373,7 @@
     "product_id": "item-00192",
     "barcode": "4801668604533",
     "product_name": "Datu Puti Oyster 70g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Oyster 70g is a condiment used for cooking and adding flavor to everyday dishes. It blends easily into meals and requires minimal preparation. A practical option for regular kitchen use.",
     "image": "/assets/images/item-00192.Image.131539.png",
     "retail": {
@@ -4396,7 +4396,7 @@
     "product_id": "item-00201",
     "barcode": "4801958911006",
     "product_name": "Ajinomoto Ginisa 100g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Ajinomoto Ginisa 100g is a seasoning product commonly used to enhance the taste of cooked dishes. It mixes easily during food preparation. A convenient choice for everyday cooking.",
     "image": "/assets/images/item-00201.Image.134833.png",
     "retail": {
@@ -4419,7 +4419,7 @@
     "product_id": "item-00202",
     "barcode": "4801958367001",
     "product_name": "Ajinomoto Ginisa 250g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Ajinomoto Ginisa 250g is a seasoning product suitable for frequent use in home cooking. It helps improve the flavor of simple meals. A reliable option for daily kitchen needs.",
     "image": "/assets/images/item-00202.Image.131614.png",
     "retail": {
@@ -4442,7 +4442,7 @@
     "product_id": "item-00204",
     "barcode": "4801958662007",
     "product_name": "Ajinomoto Pork Savor 8g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Ajinomoto Pork Savor 8g is a seasoning product used to add flavor to dishes. It dissolves easily and works well in everyday cooking. A practical item for regular use.",
     "image": "/assets/images/item-00204.Image.134916.png",
     "retail": {
@@ -4465,7 +4465,7 @@
     "product_id": "item-00217",
     "barcode": "",
     "product_name": "Dilis",
-    "category": "Rice & Grains",
+    "category": "Dried Foods",
     "description": "Dilis is a dried seafood item commonly used in simple home cooking. It can be fried or added to dishes depending on the recipe. A versatile option for everyday meals.",
     "image": "/assets/images/item-00217.Image.112843.png",
     "retail": {
@@ -4488,7 +4488,7 @@
     "product_id": "item-00226",
     "barcode": "",
     "product_name": "Mang Tomas Bottle 550g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mang Tomas Bottle 550g is a condiment commonly used as a dipping sauce or for enhancing dishes. It pairs well with a variety of meals. A convenient addition to everyday kitchen use.",
     "image": "/assets/images/item-00226.Image.112934.png",
     "retail": {
@@ -4511,7 +4511,7 @@
     "product_id": "item-00243",
     "barcode": "",
     "product_name": "Silver Swan Patis 350ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Patis 350ml is a condiment used for seasoning and cooking. It helps bring out the flavor of everyday dishes. A practical staple for regular meal preparation.",
     "image": "/assets/images/item-00243.Image.135139.png",
     "retail": {
@@ -4603,7 +4603,7 @@
     "product_id": "item-00277",
     "barcode": "",
     "product_name": "Kaong (Red)",
-    "category": "Canned Goods",
+    "category": "Special",
     "description": "Kaong (Red) is a canned goods product commonly used in desserts and sweet preparations. It can be added easily to recipes. A practical ingredient for everyday use.",
     "image": "/assets/images/item-00277.Image.113504.png",
     "retail": {
@@ -4856,7 +4856,7 @@
     "product_id": "item-00343",
     "barcode": "",
     "product_name": "UFC Funchow Seafood Sachet",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "UFC Funchow Seafood Sachet is a condiment used for cooking and enhancing the flavor of dishes. It blends easily into meals during preparation. A convenient option for everyday kitchen use.",
     "image": "/assets/images/item-00343.Image.104210.png",
     "retail": {
@@ -4879,7 +4879,7 @@
     "product_id": "item-00350",
     "barcode": "",
     "product_name": "Great Taste Granule 25grams",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Great Taste Granule 25grams is a coffee product used for simple and quick preparation. It mixes easily and fits into daily routines. A practical choice for everyday coffee needs.",
     "image": "/assets/images/item-00350.Image.104121.png",
     "retail": {
@@ -4971,7 +4971,7 @@
     "product_id": "item-00374",
     "barcode": "4801958289006",
     "product_name": "Crispy Fry Spicy Party Pack",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy Fry Spicy Party Pack is a breading mix used for coating food before frying. It helps create a crisp texture with added flavor during cooking. A practical choice for everyday preparation.",
     "image": "/assets/images/item-00374.Image.180329.png",
     "retail": {
@@ -4994,7 +4994,7 @@
     "product_id": "item-00375",
     "barcode": "4801958410004",
     "product_name": "Tasty Boy Regular 65g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Tasty Boy Regular 65g is a seasoning product commonly used for cooking and flavoring dishes. It mixes easily into recipes with minimal effort. A useful item for daily kitchen use.",
     "image": "/assets/images/item-00375.Image.180341.png",
     "retail": {
@@ -5017,7 +5017,7 @@
     "product_id": "item-00376",
     "barcode": "4800024584304",
     "product_name": "Del Monte Quick n Easy Gata Mix",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Del Monte Quick n Easy Gata Mix is a cooking mix used for preparing dishes with coconut flavor. It blends easily into recipes and simplifies meal preparation. A practical option for everyday cooking.",
     "image": "/assets/images/item-00376.Image.180401.png",
     "retail": {
@@ -5063,7 +5063,7 @@
     "product_id": "item-00378",
     "barcode": "4800888225245",
     "product_name": "Knorr Liquid Seasoning 12 ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Liquid Seasoning 12 ml is a condiment used to enhance the flavor of dishes. It can be added during cooking or used as a dip. A convenient option for everyday meals.",
     "image": "/assets/images/item-00378.Image.104018.png",
     "retail": {
@@ -5086,7 +5086,7 @@
     "product_id": "item-00379",
     "barcode": "4800888602718",
     "product_name": "Knorr Cubes Chicken",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Cubes Chicken is a seasoning product used to add flavor to soups and dishes. It dissolves easily during cooking. A practical choice for everyday kitchen use.",
     "image": "/assets/images/item-00379.Image.180419.png",
     "retail": {
@@ -5109,7 +5109,7 @@
     "product_id": "item-00380",
     "barcode": "4800888602732",
     "product_name": "Knorr Cubes Beef",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Cubes Beef is a seasoning product commonly used for enhancing the taste of meals. It mixes well into cooking with minimal effort. A reliable option for daily use.",
     "image": "/assets/images/item-00380.Image.180431.png",
     "retail": {
@@ -5132,7 +5132,7 @@
     "product_id": "item-00381",
     "barcode": "4800888607959",
     "product_name": "Knorr Cubes Shrimp",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Cubes Shrimp is a seasoning product used to add flavor to dishes. It blends easily into cooking and helps improve taste. A convenient item for regular kitchen use.",
     "image": "/assets/images/item-00381.Image.180443.png",
     "retail": {
@@ -5155,7 +5155,7 @@
     "product_id": "item-00382",
     "barcode": "4806534280866",
     "product_name": "Mama Sita's Barbeque Marinade 40ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Mama Sita's Barbeque Marinade 40ml is a condiment used for marinating and cooking dishes. It helps add flavor during preparation. A practical choice for everyday cooking.",
     "image": "/assets/images/item-00382.Image.104004.png",
     "retail": {
@@ -5178,7 +5178,7 @@
     "product_id": "item-00386",
     "barcode": "4808680230764",
     "product_name": "Knorr Liquid Seasoning Bottle 130ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Liquid Seasoning Bottle 130ml is a condiment used for seasoning and enhancing meals. It works well in cooking or as a dipping sauce. A useful addition to your kitchen essentials.",
     "image": "/assets/images/item-00386.Image.103922.png",
     "retail": {
@@ -5201,7 +5201,7 @@
     "product_id": "item-00387",
     "barcode": "4808680230979",
     "product_name": "Knorr Liquid Seasoning Bottle 250ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Liquid Seasoning Bottle 250ml is a condiment suitable for regular kitchen use. It can be used for cooking or dipping. A reliable option for everyday meals.",
     "image": "/assets/images/item-00387.Image.103914.png",
     "retail": {
@@ -5270,7 +5270,7 @@
     "product_id": "item-00393",
     "barcode": "4800361420143",
     "product_name": "Magic Sarap 150g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Magic Sarap 150g is a seasoning product used to enhance the flavor of dishes. It blends easily during cooking. A practical item for everyday meal preparation.",
     "image": "/assets/images/item-00393.Image.103510.png",
     "retail": {
@@ -5293,7 +5293,7 @@
     "product_id": "item-00395",
     "barcode": "4801668606117",
     "product_name": "Mang Tomas Siga Jr Pouch 80g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mang Tomas Siga Jr Pouch 80g is a condiment commonly used as a dipping sauce or for adding flavor to dishes. It works well with various meals. A convenient choice for daily use.",
     "image": "/assets/images/item-00395.Image.103452.png",
     "retail": {
@@ -5339,7 +5339,7 @@
     "product_id": "item-00397",
     "barcode": "4800024578938",
     "product_name": "Del Monte Spaghetti Sauce Creamy and Cheesy 900g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Del Monte Spaghetti Sauce Creamy and Cheesy 900g is a cooking sauce used for preparing pasta dishes. It simplifies meal preparation and blends easily into recipes. A practical choice for home cooking.",
     "image": "/assets/images/item-00397.Image.103428.png",
     "retail": {
@@ -5362,7 +5362,7 @@
     "product_id": "item-00398",
     "barcode": "4800024556165",
     "product_name": "Del Monte Tomato Sauce Original 900g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Del Monte Tomato Sauce Original 900g is a condiment commonly used for cooking a variety of dishes. It blends easily into recipes and helps add flavor to everyday meals. A practical choice for regular kitchen use.",
     "image": "/assets/images/item-00398.Image.103416.png",
     "retail": {
@@ -5523,7 +5523,7 @@
     "product_id": "item-00210",
     "barcode": "",
     "product_name": "Food Color Red 5gms",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Food Color Red 5gms is a baking ingredient used to add color to food and recipes. It mixes easily during preparation. A useful item for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5546,7 +5546,7 @@
     "product_id": "item-00212",
     "barcode": "",
     "product_name": "Food Color Yellow 5gms",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Food Color Yellow 5gms is a baking ingredient commonly used for coloring dishes and mixtures. It blends well into recipes with ease. A practical option for regular use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5569,7 +5569,7 @@
     "product_id": "item-00219",
     "barcode": "",
     "product_name": "Udong",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Udong is a dried goods product used for cooking simple noodle dishes. It can be prepared easily and served with basic ingredients. A useful pantry item for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5592,7 +5592,7 @@
     "product_id": "item-00232",
     "barcode": "",
     "product_name": "Quality Patis Long Neck",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Quality Patis Long Neck is a condiment used for seasoning and cooking dishes. It helps enhance the flavor of meals. A practical addition to your kitchen essentials.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5615,7 +5615,7 @@
     "product_id": "item-00235",
     "barcode": "",
     "product_name": "Quality Patis Gallon",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Quality Patis Gallon is a condiment suitable for larger volume use in cooking. It can be used for seasoning or dipping. A reliable option for everyday kitchen needs.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5638,7 +5638,7 @@
     "product_id": "item-00294",
     "barcode": "",
     "product_name": "Fiesta Spaghetti with Sauce 500g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Fiesta Spaghetti with Sauce 500g is a pasta meal kit that’s easy to prepare at home. It combines noodles and sauce for quick cooking. A practical option for everyday meals or simple gatherings.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5661,7 +5661,7 @@
     "product_id": "item-00297",
     "barcode": "",
     "product_name": "Del Monte Spaghetti Sauce 500g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Del Monte Spaghetti Sauce 500g is a cooking sauce commonly used for pasta dishes. It blends easily and helps simplify meal preparation. A convenient choice for daily cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5684,7 +5684,7 @@
     "product_id": "item-00298",
     "barcode": "",
     "product_name": "Del Monte Spaghetti Sauce 1kl",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Del Monte Spaghetti Sauce 1kl is a cooking sauce suitable for larger servings. It works well for preparing meals for the family. A practical option for regular kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5707,7 +5707,7 @@
     "product_id": "item-00322",
     "barcode": "48025522",
     "product_name": "Magic Sarap 8g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Magic Sarap 8g is a seasoning product used to enhance the flavor of dishes. It dissolves easily during cooking. A useful item for everyday meal preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5753,7 +5753,7 @@
     "product_id": "item-00331",
     "barcode": "",
     "product_name": "Mama Sitas Oyster 156g (bottle)",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mama Sitas Oyster 156g (bottle) is a condiment used for cooking and seasoning dishes. It blends well into recipes and enhances flavor. A practical choice for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5776,7 +5776,7 @@
     "product_id": "item-00336",
     "barcode": "",
     "product_name": "Styro Bowl 12oz 25pc.",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Styro Bowl 12oz 25pc. is a plastic product used for serving food. It’s convenient for takeout, gatherings, or daily use. A practical option for easy serving and cleanup.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5822,7 +5822,7 @@
     "product_id": "item-00390",
     "barcode": "4800030064722",
     "product_name": "SunMac Spaghetti 900g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "SunMac Spaghetti 900g is a pasta product used for preparing simple noodle dishes. It’s easy to cook and works well for everyday meals. A practical pantry item.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5845,7 +5845,7 @@
     "product_id": "item-00394",
     "barcode": "4806526300572",
     "product_name": "Mr. Brown Baking Powder",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Mr. Brown Baking Powder is a baking ingredient used in preparing baked goods. It helps improve texture during cooking. A useful item for regular kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5868,7 +5868,7 @@
     "product_id": "item-00399",
     "barcode": "",
     "product_name": "Crispy Fry Original with Gravy 1kl",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy Fry Original with Gravy 1kl is a breading mix used for coating food before frying. It helps create a crisp texture during cooking. A convenient choice for everyday preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5891,7 +5891,7 @@
     "product_id": "item-00400",
     "barcode": "",
     "product_name": "Crispy Fry Garlic 1kl",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy Fry Garlic 1kl is a breading mix commonly used for frying dishes at home. It’s easy to use and helps achieve a crisp finish. A practical option for regular cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5914,7 +5914,7 @@
     "product_id": "item-00402",
     "barcode": "",
     "product_name": "Crispy fry Spicy 1kl",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy fry Spicy 1kl is a breading mix designed for coating food before frying. It adds flavor while creating a crisp texture. A convenient option for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -5937,7 +5937,7 @@
     "product_id": "item-00403",
     "barcode": "",
     "product_name": "Ajinomoto Pork Savor 250g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Ajinomoto Pork Savor 250g is a seasoning product used to enhance the taste of dishes. It mixes easily during cooking. A reliable choice for daily meal preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6006,7 +6006,7 @@
     "product_id": "item-00418",
     "barcode": "",
     "product_name": "Cornstarch 500g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Cornstarch 500g is a baking ingredient commonly used for thickening sauces and preparing recipes. It mixes easily and works well in everyday cooking. A practical staple for kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6029,7 +6029,7 @@
     "product_id": "item-00419",
     "barcode": "",
     "product_name": "Curry Powder",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Curry Powder is a seasoning product used to add flavor to dishes. It blends easily into recipes and is commonly used in cooking. A useful item for everyday meal preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6052,7 +6052,7 @@
     "product_id": "item-00420",
     "barcode": "",
     "product_name": "Harina",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Harina is a flour product used for baking and cooking various dishes. It works well for preparing dough and mixtures. A basic staple for everyday kitchen needs.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6074,8 +6074,8 @@
   {
     "product_id": "item-00421",
     "barcode": "",
-    "product_name": "Hershey",
-    "category": "Snacks",
+    "product_name": "Hershey Powder",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Hershey is a chocolate product commonly used for snacks or dessert preparation. It can be enjoyed on its own or added to recipes. A convenient option for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6098,7 +6098,7 @@
     "product_id": "item-00422",
     "barcode": "4800030000188",
     "product_name": "Ideal Macaroni 200g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Ideal Macaroni 200g is a pasta product used for cooking simple noodle dishes. It’s easy to prepare and suitable for everyday meals. A practical pantry item.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6121,7 +6121,7 @@
     "product_id": "item-00423",
     "barcode": "",
     "product_name": "Ideal Macaroni",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Ideal Macaroni is a pasta product commonly used for preparing various dishes. It cooks easily and fits well into daily meals. A convenient option for regular use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6144,7 +6144,7 @@
     "product_id": "item-00424",
     "barcode": "",
     "product_name": "Kasubha",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Kasubha is a seasoning ingredient used to add color and flavor to dishes. It blends easily during cooking. A useful addition to everyday recipes.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6167,7 +6167,7 @@
     "product_id": "item-00425",
     "barcode": "",
     "product_name": "Laurel",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Laurel is a seasoning ingredient commonly used for cooking and flavoring dishes. It adds aroma during preparation. A practical item for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6190,7 +6190,7 @@
     "product_id": "item-00426",
     "barcode": "",
     "product_name": "Paminta Buo",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Paminta Buo is a seasoning product used for adding flavor to dishes. It can be included during cooking for better taste. A useful staple for daily meal preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6213,7 +6213,7 @@
     "product_id": "item-00427",
     "barcode": "",
     "product_name": "Paminta Crack",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Paminta Crack is a seasoning product used to enhance the flavor of cooked dishes. It blends easily into recipes. A practical option for everyday cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6236,7 +6236,7 @@
     "product_id": "item-00428",
     "barcode": "",
     "product_name": "Paminta Pino",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Paminta Pino is a seasoning product commonly used for flavoring dishes. It mixes easily during cooking. A reliable item for daily kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6259,7 +6259,7 @@
     "product_id": "item-00429",
     "barcode": "",
     "product_name": "Pickles",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Pickles is a preserved food product often used as a side or ingredient in dishes. It’s easy to serve and adds flavor to meals. A convenient pantry item.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6282,7 +6282,7 @@
     "product_id": "item-00430",
     "barcode": "",
     "product_name": "Roger's Mayonnaise",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Roger's Mayonnaise is a condiment used for spreading or mixing into dishes. It blends well with a variety of recipes. A practical choice for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6305,7 +6305,7 @@
     "product_id": "item-00431",
     "barcode": "",
     "product_name": "Seven Ox 1/2 kilo",
-    "category": "Rice & Grains",
+    "category": "Noodles",
     "description": "Seven Ox 1/2 kilo Pancit Canton is a noodle product commonly used for preparing stir-fry dishes at home. It cooks easily and works well for everyday meals. A practical pantry staple for regular use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6328,7 +6328,7 @@
     "product_id": "item-00432",
     "barcode": "",
     "product_name": "Seven Ox 1 kilo",
-    "category": "Rice & Grains",
+    "category": "Noodles",
     "description": "Seven Ox 1 kilo Pancit Canton is a noodle product suitable for larger servings. It’s easy to cook and ideal for family meals or gatherings. A convenient option for daily cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6351,7 +6351,7 @@
     "product_id": "item-00433",
     "barcode": "",
     "product_name": "Seven Ox Square 200g",
-    "category": "Rice & Grains",
+    "category": "Noodles",
     "description": "Seven Ox Square 200g Pancit Canton is a noodle product designed for quick meal preparation. It cooks easily and fits well into simple dishes. A handy option for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6374,7 +6374,7 @@
     "product_id": "item-00434",
     "barcode": "",
     "product_name": "Seven Ox Square 400g",
-    "category": "Rice & Grains",
+    "category": "Noodles",
     "description": "Seven Ox Square 400g Pancit Canton is a noodle product commonly used for preparing larger portions. It’s easy to cook and suitable for shared meals. A practical choice for home cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6397,7 +6397,7 @@
     "product_id": "item-00435",
     "barcode": "",
     "product_name": "Star Anis",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Star Anis is a seasoning ingredient used to add aroma and flavor to dishes. It blends well during cooking and is commonly used in recipes. A useful addition to everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6420,7 +6420,7 @@
     "product_id": "item-00437",
     "barcode": "",
     "product_name": "Busog Canton 1kl",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Busog Canton 1kl is a noodle product often used for preparing simple stir-fry meals. It cooks easily and works well for daily dishes. A convenient pantry item for regular use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6443,7 +6443,7 @@
     "product_id": "item-00438",
     "barcode": "",
     "product_name": "Golden Silk Canton 1kl",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Golden Silk Canton 1kl is a noodle product suitable for everyday cooking. It’s easy to prepare and fits well into a variety of dishes. A practical option for home meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6489,7 +6489,7 @@
     "product_id": "item-00440",
     "barcode": "",
     "product_name": "Odong",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Odong is a dried noodle product commonly used in cooking simple dishes. It’s easy to prepare and works well with basic ingredients. A practical pantry staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6512,7 +6512,7 @@
     "product_id": "item-00441",
     "barcode": "",
     "product_name": "Crispy fry Original 1kl",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Crispy fry Original 1kl is a breading mix used for coating food before frying. It helps create a crisp texture during cooking. A convenient option for everyday preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6535,7 +6535,7 @@
     "product_id": "item-00442",
     "barcode": "",
     "product_name": "Tokwa",
-    "category": "Frozen Foods",
+    "category": "Special",
     "description": "Tokwa is a fresh food item commonly used in cooking various dishes. It can be prepared in different ways depending on the recipe. A versatile ingredient for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6558,7 +6558,7 @@
     "product_id": "item-00443",
     "barcode": "",
     "product_name": "Toho",
-    "category": "Frozen Foods",
+    "category": "Special",
     "description": "Toho is a fresh food item often used in simple cooking and dishes. It can be prepared easily and added to meals. A practical option for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6627,7 +6627,7 @@
     "product_id": "item-00447",
     "barcode": "",
     "product_name": "Sesame Seed",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Sesame Seed is a seasoning ingredient commonly used to add texture and flavor to dishes. It can be sprinkled or mixed into recipes during preparation. A useful item for everyday cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6650,7 +6650,7 @@
     "product_id": "item-00448",
     "barcode": "",
     "product_name": "Pasas",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Pasas is a dried fruit commonly used in cooking and baking. It can be added to dishes or desserts for extra flavor. A convenient ingredient for everyday recipes.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6673,7 +6673,7 @@
     "product_id": "item-00451",
     "barcode": "",
     "product_name": "Pugo",
-    "category": "Frozen Foods",
+    "category": "Cooking Essentials",
     "description": "Pugo is a fresh food item commonly used in simple home cooking. It can be prepared in different ways depending on the dish. A practical option for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6696,7 +6696,7 @@
     "product_id": "item-00455",
     "barcode": "",
     "product_name": "Quick n easy gravy mix",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Quick n easy gravy mix is a seasoning mix used for preparing gravy quickly. It blends easily with minimal effort during cooking. A convenient choice for everyday meal preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6765,7 +6765,7 @@
     "product_id": "76de009a",
     "barcode": "",
     "product_name": "Miki Lapad",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Miki Lapad is a noodle product used for cooking various dishes. It’s easy to prepare and suitable for everyday meals. A useful pantry staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6834,7 +6834,7 @@
     "product_id": "7734fb79",
     "barcode": "",
     "product_name": "Sunmac Tipid pack",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Noodles",
     "description": "Sunmac Tipid pack is a noodle product designed for simple and affordable meal preparation. It cooks easily and fits well into everyday dishes. A convenient option for daily use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6903,7 +6903,7 @@
     "product_id": "90f1f09a",
     "barcode": "",
     "product_name": "Misua ¼",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Misua ¼ is a noodle product commonly used in cooking light dishes. It’s easy to prepare and works well for everyday meals. A useful pantry item.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6949,7 +6949,7 @@
     "product_id": "a57b728e",
     "barcode": "",
     "product_name": "Chicharon big",
-    "category": "Snacks",
+    "category": "Cooking Essentials",
     "description": "Chicharon big is a snack product commonly enjoyed as a quick bite. It’s ready to eat and easy to serve. A convenient option for everyday snacking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6972,7 +6972,7 @@
     "product_id": "1f698836",
     "barcode": "",
     "product_name": "Lady's Choice Mayonnaise",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Lady's Choice Mayonnaise is a condiment used for spreading or mixing into dishes. It blends well with a variety of recipes. A useful addition to your kitchen.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -6995,7 +6995,7 @@
     "product_id": "59c7ce33",
     "barcode": "",
     "product_name": "Chorizo",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Chorizo is a frozen foods item commonly used in cooking simple dishes. It can be prepared easily and served with meals. A practical option for daily use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7156,7 +7156,7 @@
     "product_id": "b4b7a95c",
     "barcode": "",
     "product_name": "Bossing luncheon meat",
-    "category": "Canned Goods",
+    "category": "Frozen Foods",
     "description": "Bossing luncheon meat is a canned goods product commonly used for quick and simple dishes. It can be sliced and cooked easily at home. A convenient pantry staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7271,7 +7271,7 @@
     "product_id": "7e99959c",
     "barcode": "",
     "product_name": "bluepack",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "bluepack betchin is a seasoning product used to enhance the flavor of dishes. It mixes easily during cooking. A useful item for daily meal preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7294,7 +7294,7 @@
     "product_id": "c7efc2d0",
     "barcode": "",
     "product_name": "super q bihon",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "super q bihon is a noodle product commonly used for preparing simple dishes. It cooks easily and fits well into everyday meals. A practical pantry staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7317,7 +7317,7 @@
     "product_id": "30d77f20",
     "barcode": "",
     "product_name": "Mert 100g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Mert 100g breading mix is a breading product used for coating food before frying. It helps create a crisp texture during cooking. A convenient option for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7340,7 +7340,7 @@
     "product_id": "75d9e052",
     "barcode": "",
     "product_name": "Mert 250g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Mert 250g breading mix is a breading product suitable for regular kitchen use. It’s easy to apply and works well for fried dishes. A practical choice for daily cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7363,7 +7363,7 @@
     "product_id": "d1bca987",
     "barcode": "",
     "product_name": "Super Q Palabok",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Super Q Palabok is a noodle product used for preparing traditional dishes at home. It’s easy to cook and suitable for everyday meals. A convenient pantry item.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7386,7 +7386,7 @@
     "product_id": "f9733843",
     "barcode": "",
     "product_name": "knorr chicken cubes",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "knorr chicken cubes is a seasoning product used to enhance the flavor of dishes. It dissolves easily during cooking. A useful staple for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7409,7 +7409,7 @@
     "product_id": "ee22f2de",
     "barcode": "",
     "product_name": "Knorr Beef Cubes",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Beef Cubes is a seasoning product commonly used for adding flavor to meals. It blends easily into cooking. A practical option for daily kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7432,7 +7432,7 @@
     "product_id": "1cc6e1a7",
     "barcode": "",
     "product_name": "Knorr Shrimp Cubes",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Shrimp Cubes is a seasoning product used to improve the taste of dishes. It mixes well during cooking. A reliable item for everyday preparation.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7455,7 +7455,7 @@
     "product_id": "f6235aae",
     "barcode": "",
     "product_name": "Aji Blue Pack",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Aji Blue Pack betchin is a seasoning product commonly used for enhancing flavor in dishes. It dissolves easily during cooking. A convenient choice for regular use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7478,7 +7478,7 @@
     "product_id": "9d076502",
     "barcode": "",
     "product_name": "Aji 50g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Aji 50g betchin is a seasoning product used for everyday cooking. It blends easily into meals and helps improve taste. A practical option for daily kitchen needs.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7501,7 +7501,7 @@
     "product_id": "c304d6be",
     "barcode": "",
     "product_name": "Aji 100g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Aji 100g betchin is a seasoning product commonly used to enhance the flavor of dishes. It dissolves easily during cooking. A practical option for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7524,7 +7524,7 @@
     "product_id": "6ecd390e",
     "barcode": "",
     "product_name": "Aji 250g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Aji 250g betchin is a seasoning product suitable for regular cooking at home. It blends easily into meals and helps improve taste. A reliable choice for daily use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7569,8 +7569,8 @@
   {
     "product_id": "52c225ae",
     "barcode": "",
-    "product_name": "lihia",
-    "category": "Condiments & Cooking Essentials",
+    "product_name": "Lihia",
+    "category": "Spices",
     "description": "lihia is a cooking ingredient often used in food preparation. It is added during cooking depending on the recipe. A practical item for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7593,7 +7593,7 @@
     "product_id": "f342bb79",
     "barcode": "",
     "product_name": "Sibot",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Spices",
     "description": "Sibot is a seasoning ingredient commonly used in cooking. It adds aroma and blends into dishes during preparation. A useful addition to everyday recipes.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7616,7 +7616,7 @@
     "product_id": "item-00133",
     "barcode": "4800888603692",
     "product_name": "Knorr Sinigang Original 1/2 Liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Knorr Sinigang Original 1/2 Liter is a seasoning mix used for preparing soup dishes at home. It’s easy to use and helps create consistent flavor. A convenient option for everyday cooking.",
     "image": "/assets/images/item-00133.Image.130832.png",
     "retail": {
@@ -7639,7 +7639,7 @@
     "product_id": "item-00145",
     "barcode": "",
     "product_name": "Busog Canton 500g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Busog Canton 500g is a noodle product commonly used for simple stir-fry meals. It cooks easily and fits well into everyday dishes. A practical pantry item.",
     "image": "/assets/images/item-00145.Image.134437.jpg",
     "retail": {
@@ -7662,7 +7662,7 @@
     "product_id": "item-00194",
     "barcode": "",
     "product_name": "Sarsaya Oyster 30g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Sarsaya Oyster 30g is a condiment used for cooking and adding flavor to dishes. It blends easily into meals during preparation. A convenient choice for daily use.",
     "image": "/assets/images/item-00194.Image.131601.png",
     "retail": {
@@ -7685,7 +7685,7 @@
     "product_id": "item-00108",
     "barcode": "",
     "product_name": "Miki Sariwa (Manipis)",
-    "category": "Frozen Foods",
+    "category": "Special",
     "description": "Miki Sariwa (Manipis) is a fresh noodle product used for cooking simple dishes. It can be prepared easily and served with basic ingredients. A useful item for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7708,7 +7708,7 @@
     "product_id": "item-00109",
     "barcode": "",
     "product_name": "Miki Sariwa (lomi)",
-    "category": "Frozen Foods",
+    "category": "Special",
     "description": "Miki Sariwa (lomi) is a fresh noodle product commonly used in cooking various dishes. It’s easy to prepare and works well for everyday meals. A practical choice for home cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7731,7 +7731,7 @@
     "product_id": "item-00292",
     "barcode": "",
     "product_name": "Fiesta Spaghetti 1kl",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Fiesta Spaghetti 1kl is a pasta product used for preparing simple noodle dishes. It cooks easily and is suitable for family meals. A convenient pantry staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7754,7 +7754,7 @@
     "product_id": "item-00293",
     "barcode": "",
     "product_name": "Fiesta Spaghetti with Sauce 1kl",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Fiesta Spaghetti with Sauce 1kl is a pasta meal kit designed for easy preparation. It combines noodles and sauce for quick cooking. A practical option for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7777,7 +7777,7 @@
     "product_id": "item-00316",
     "barcode": "4806011812047",
     "product_name": "Super Q Bihon 500g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Super Q Bihon 500g is a noodle product commonly used in cooking simple dishes. It’s easy to prepare and fits well into everyday meals. A useful pantry item.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -7800,7 +7800,7 @@
     "product_id": "item-00054",
     "barcode": "",
     "product_name": "Datuputi Twin pack",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datuputi Twin pack is a condiment set used for cooking and food preparation. It provides basic seasoning needs for various dishes. A practical choice for daily kitchen use.",
     "image": "/assets/images/item-00054.Image.095857.png",
     "retail": {
@@ -7823,7 +7823,7 @@
     "product_id": "item-00056",
     "barcode": "4801668602027",
     "product_name": "Datu Puti Suka Pouch 200ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Suka Pouch 200ml is a condiment used for cooking and dipping. It adds flavor to simple meals. A convenient option for everyday use.",
     "image": "/assets/images/item-00056.Image.105847.png",
     "retail": {
@@ -7846,7 +7846,7 @@
     "product_id": "item-00057",
     "barcode": "4801668100103",
     "product_name": "Datuputi Suka Bottle 385ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datuputi Suka Bottle 385ml is a condiment commonly used in cooking and food preparation. It works well with a variety of dishes. A reliable choice for regular use.",
     "image": "/assets/images/item-00057.Image.105920.png",
     "retail": {
@@ -7869,7 +7869,7 @@
     "product_id": "item-00058",
     "barcode": "4800344004414",
     "product_name": "Silver Swan Suka Bottle 385ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Suka Bottle 385ml is a condiment used for everyday cooking and dipping. It blends easily into simple dishes. A practical addition to your kitchen essentials.",
     "image": "/assets/images/item-00058.Image.110008.png",
     "retail": {
@@ -7892,7 +7892,7 @@
     "product_id": "item-00063",
     "barcode": "4801668100141",
     "product_name": "Datu Puti Suka 1 ltr",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Suka 1 ltr is a condiment suitable for regular kitchen use. It can be used for cooking or dipping. A convenient option for daily meals.",
     "image": "/assets/images/item-00063.Image.110308.png",
     "retail": {
@@ -7915,7 +7915,7 @@
     "product_id": "item-00065",
     "barcode": "4800344004629",
     "product_name": "Silver Swan Suka 1 ltr",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Suka 1 ltr is a condiment commonly used in cooking and food preparation. It adds flavor to everyday dishes. A reliable choice for regular use.",
     "image": "/assets/images/item-00065.Image.110352.png",
     "retail": {
@@ -7938,7 +7938,7 @@
     "product_id": "item-00097",
     "barcode": "",
     "product_name": "Plastic Cups 10oz",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Plastic Cups 10oz is a plastic product used for serving beverages. It’s convenient for daily use or small gatherings. A practical option for easy serving and cleanup.",
     "image": "/assets/images/item-00097.Image.133126.png",
     "retail": {
@@ -7961,7 +7961,7 @@
     "product_id": "item-00098",
     "barcode": "",
     "product_name": "Plastic Cups 12oz",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Plastic Cups 12oz is a plastic product suitable for serving drinks in larger portions. It’s easy to use and ideal for everyday needs. A convenient choice for home or events.",
     "image": "/assets/images/item-00098.Image.133140.png",
     "retail": {
@@ -7984,7 +7984,7 @@
     "product_id": "item-00102",
     "barcode": "",
     "product_name": "UFC Catsup 1kg",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "UFC Catsup 1kg is a condiment commonly used for dipping and adding flavor to meals. It pairs well with fried foods and simple dishes. A practical option for everyday use.",
     "image": "/assets/images/item-00102.Image.133333.png",
     "retail": {
@@ -8007,7 +8007,7 @@
     "product_id": "item-00104",
     "barcode": "14285000891",
     "product_name": "UFC Sweet Chili 340g bottle",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "UFC Sweet Chili 340g bottle is a condiment commonly used for dipping and adding flavor to dishes. It works well with fried foods and simple meals. A convenient option for everyday kitchen use.",
     "image": "/assets/images/item-00104.Image.133424.png",
     "retail": {
@@ -8030,7 +8030,7 @@
     "product_id": "item-00105",
     "barcode": "14285000068",
     "product_name": "UFC Catsup bottle",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "UFC Catsup bottle is a condiment used for dipping or mixing into meals. It pairs well with a variety of dishes and is easy to use. A practical staple for everyday use.",
     "image": "/assets/images/item-00105.Image.133446.png",
     "retail": {
@@ -8053,7 +8053,7 @@
     "product_id": "item-00140",
     "barcode": "4800888602251",
     "product_name": "Knorr Sinigang sa Gabi 2 Liters",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Knorr Sinigang sa Gabi 2 Liters is a seasoning mix used for preparing soup dishes at home. It’s easy to use and helps create consistent flavor. A convenient option for family meals.",
     "image": "/assets/images/item-00140.Image.134147.png",
     "retail": {
@@ -8076,7 +8076,7 @@
     "product_id": "item-00142",
     "barcode": "4801668603413",
     "product_name": "UFC Sinigang 1 liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "UFC Sinigang 1 liter is a seasoning product commonly used for cooking soup dishes. It blends easily and simplifies meal preparation. A practical choice for everyday cooking.",
     "image": "/assets/images/item-00142.Image.134225.png",
     "retail": {
@@ -8099,7 +8099,7 @@
     "product_id": "item-00152",
     "barcode": "",
     "product_name": "Kalamansi",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Kalamansi is a fresh ingredient commonly used for adding flavor to dishes or drinks. It can be squeezed or mixed easily into recipes. A useful item for everyday kitchen use.",
     "image": "/assets/images/item-00152.Image.130852.png",
     "retail": {
@@ -8122,7 +8122,7 @@
     "product_id": "item-00157",
     "barcode": "",
     "product_name": "Kamatis",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Kamatis is a fresh ingredient often used in cooking and simple dishes. It can be prepared easily and added to meals. A basic staple for everyday cooking.",
     "image": "/assets/images/item-00157.Image.130952.png",
     "retail": {
@@ -8145,7 +8145,7 @@
     "product_id": "item-00161",
     "barcode": "",
     "product_name": "Carrots",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Carrots is a fresh ingredient commonly used in a variety of dishes. It can be cooked or prepared depending on the recipe. A versatile option for everyday meals.",
     "image": "/assets/images/item-00161.Image.131044.png",
     "retail": {
@@ -8168,7 +8168,7 @@
     "product_id": "item-00187",
     "barcode": "",
     "product_name": "Mama Sita's BBQ Marinade 80g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Mama Sita's BBQ Marinade 80g is a condiment used for marinating and cooking dishes. It helps add flavor during preparation. A practical option for everyday cooking.",
     "image": "/assets/images/item-00187.Image.131423.png",
     "retail": {
@@ -8214,7 +8214,7 @@
     "product_id": "item-00222",
     "barcode": "",
     "product_name": "UFC Catsup 550g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "UFC Catsup 550g is a condiment commonly used for dipping and adding flavor to meals. It works well with everyday dishes. A practical choice for daily kitchen use.",
     "image": "/assets/images/item-00222.Image.131726.png",
     "retail": {
@@ -8237,7 +8237,7 @@
     "product_id": "item-00223",
     "barcode": "14285000068",
     "product_name": "UFC Catsup Bottle 320g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "UFC Catsup Bottle 320g is a condiment suitable for regular use in meals. It can be used for dipping or mixing into recipes. A convenient option for everyday preparation.",
     "image": "/assets/images/item-00223.Image.112901.png",
     "retail": {
@@ -8260,7 +8260,7 @@
     "product_id": "item-00224",
     "barcode": "14285002789",
     "product_name": "UFC Catsup Pouch 100g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "UFC Catsup Pouch 100g is a condiment designed for easy and practical use. It works well for quick meals or snacks. A handy item for daily use.",
     "image": "/assets/images/item-00224.Image.112912.png",
     "retail": {
@@ -8283,7 +8283,7 @@
     "product_id": "item-00228",
     "barcode": "4801668600641",
     "product_name": "Mang Tomas Pouch 100g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mang Tomas Pouch 100g is a condiment commonly used as a dipping sauce or for enhancing dishes. It pairs well with a variety of meals. A practical option for everyday use.",
     "image": "/assets/images/item-00228.Image.113002.png",
     "retail": {
@@ -8306,7 +8306,7 @@
     "product_id": "item-00236",
     "barcode": "4809011349421",
     "product_name": "Dip Catsup 1 Gallon",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Dip Catsup 1 Gallon is a condiment suitable for larger volume use in cooking or serving. It works well for everyday food preparation. A convenient option for bulk needs.",
     "image": "/assets/images/item-00236.Image.113044.png",
     "retail": {
@@ -8329,7 +8329,7 @@
     "product_id": "item-00237",
     "barcode": "4809011349438",
     "product_name": "Dip Catsup Half Gallon",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Dip Catsup Half Gallon is a condiment used for regular kitchen or serving use. It’s easy to apply and suitable for everyday meals. A practical choice for daily use.",
     "image": "/assets/images/item-00237.Image.113054.png",
     "retail": {
@@ -8352,7 +8352,7 @@
     "product_id": "item-00238",
     "barcode": "4809011349445",
     "product_name": "Dip Catsup 1 liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Dip Catsup 1 liter is a condiment commonly used for dipping and adding flavor to dishes. It fits well into everyday kitchen routines. A reliable option for regular use.",
     "image": "/assets/images/item-00238.Image.113102.png",
     "retail": {
@@ -8375,7 +8375,7 @@
     "product_id": "item-00240",
     "barcode": "",
     "product_name": "Pares Datu toyo/suka 1 liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Pares Datu toyo/suka 1 liter is a condiment combination used for seasoning and dipping. It works well for simple meals and everyday cooking. A practical addition to kitchen essentials.",
     "image": "/assets/images/item-00240.Image.113121.png",
     "retail": {
@@ -8490,7 +8490,7 @@
     "product_id": "item-00317",
     "barcode": "4808680652757",
     "product_name": "Best Food mayo 80g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Best Food mayo 80g is a condiment used for spreading or mixing into dishes. It blends well with sandwiches and simple recipes. A practical option for everyday kitchen use.",
     "image": "/assets/images/item-00317.Image.175957.png",
     "retail": {
@@ -8536,7 +8536,7 @@
     "product_id": "item-00044",
     "barcode": "",
     "product_name": "Pickles Relish 80g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Pickles Relish 80g is a condiment often used to add flavor to dishes or sandwiches. It’s easy to use and works well with simple meals. A handy addition to your kitchen.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -8559,7 +8559,7 @@
     "product_id": "item-00220",
     "barcode": "",
     "product_name": "Sotanghon 1/4kl",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Sotanghon 1/4kl is a noodle product used for cooking simple dishes at home. It’s easy to prepare and fits well into everyday meals. A practical pantry staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -8582,7 +8582,7 @@
     "product_id": "item-00221",
     "barcode": "",
     "product_name": "Sotanghon 100g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Sotanghon 100g is a noodle product commonly used in preparing light dishes. It cooks easily and works well with basic ingredients. A convenient option for daily use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -8605,7 +8605,7 @@
     "product_id": "item-00318",
     "barcode": "4808680027159",
     "product_name": "Best Food Mayo 220g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Best Food Mayo 220g is a condiment used for spreading or mixing into recipes. It blends easily and works well with various dishes. A reliable choice for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -8651,7 +8651,7 @@
     "product_id": "item-00332",
     "barcode": "",
     "product_name": "Papa Catsup 320g btl",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Papa Catsup 320g btl is a condiment used for dipping and adding flavor to food. It pairs well with a variety of dishes. A practical choice for everyday use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -8674,7 +8674,7 @@
     "product_id": "item-00333",
     "barcode": "",
     "product_name": "Del Monte Pineapple Juice 240ml",
-    "category": "Soft Drinks",
+    "category": "Canned Goods",
     "description": "Del Monte Pineapple Juice 240ml is a beverage product commonly enjoyed as a drink. It’s easy to serve and suitable for everyday consumption. A convenient option for quick refreshment.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -8697,7 +8697,7 @@
     "product_id": "66dfab67",
     "barcode": "",
     "product_name": "Sotanghon 150g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Sotanghon 150g is a noodle product used for cooking simple home dishes. It’s easy to prepare and works well with everyday meals. A useful pantry item.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -8789,7 +8789,7 @@
     "product_id": "item-00073",
     "barcode": "4800217013246",
     "product_name": "Coconut Toyo Bottle 350ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Coconut Toyo Bottle 350ml is a condiment used for cooking and seasoning dishes. It blends well into everyday recipes. A reliable option for kitchen use.",
     "image": "/assets/images/item-00073.Image.130438.png",
     "retail": {
@@ -8904,7 +8904,7 @@
     "product_id": "item-00351",
     "barcode": "",
     "product_name": "Great Taste Choco Twin Pack",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Great Taste Choco Twin Pack is a beverage product used for quick and easy drink preparation. It’s simple to prepare and suitable for daily consumption. A convenient option for everyday use.",
     "image": "/assets/images/item-00351.Image.104106.png",
     "retail": {
@@ -8927,7 +8927,7 @@
     "product_id": "item-00352",
     "barcode": "",
     "product_name": "Great Taste Choco Singles",
-    "category": "Coffee",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Great Taste Choco Singles is a beverage product commonly used for quick drink preparation. It’s easy to mix and enjoy anytime. A practical choice for daily routines.",
     "image": "/assets/images/item-00352.Image.104057.png",
     "retail": {
@@ -8973,7 +8973,7 @@
     "product_id": "0037f181",
     "barcode": "",
     "product_name": "Bagoong bote",
-    "category": "Canned Goods",
+    "category": "Cooking Essentials",
     "description": "Bagoong bote is a condiment commonly used for cooking and dipping. It adds flavor to everyday dishes and is easy to use. A practical option for regular kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9019,7 +9019,7 @@
     "product_id": "item-00008",
     "barcode": "",
     "product_name": "Styro Cup",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Styro Cup is a plastic product used for serving beverages. It’s suitable for daily use or small gatherings. A practical choice for easy serving and cleanup.",
     "image": "/assets/images/item-00008.Image.071016.png",
     "retail": {
@@ -9042,7 +9042,7 @@
     "product_id": "item-00107",
     "barcode": "",
     "product_name": "JR Tiny",
-    "category": "Snacks",
+    "category": "Plastic and Paper Products",
     "description": "JR Tiny is a plastic product commonly used for packaging and storing small items. It’s easy to use and suitable for everyday needs in homes or stores. A practical option for daily use.",
     "image": "/assets/images/item-00107.Image.133537.png",
     "retail": {
@@ -9065,7 +9065,7 @@
     "product_id": "item-00211",
     "barcode": "",
     "product_name": "Food Color Orange 5gms",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Food Color Orange 5gms is a baking ingredient used to add color to food and recipes. It mixes easily during preparation. A useful item for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9088,7 +9088,7 @@
     "product_id": "item-00334",
     "barcode": "",
     "product_name": "Spoon/Kutsara 250g 1/4",
-    "category": "Utensils",
+    "category": "Plastic and Paper Products",
     "description": "Spoon/Kutsara 250g 1/4 is a plastic product used for serving or eating food. It’s convenient for daily use or events. A practical option for easy handling.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9111,7 +9111,7 @@
     "product_id": "item-00335",
     "barcode": "",
     "product_name": "Fork/Tinidor 250g 1/4",
-    "category": "Utensils",
+    "category": "Plastic and Paper Products",
     "description": "Fork/Tinidor 250g 1/4 is a plastic product commonly used for eating or serving meals. It’s easy to use and suitable for gatherings. A convenient choice for everyday needs.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9134,7 +9134,7 @@
     "product_id": "item-00009",
     "barcode": "4809012516211",
     "product_name": "Paper Plate",
-    "category": "Paper Products",
+    "category": "Plastic and Paper Products",
     "description": "Paper Plate is a paper product used for serving food. It’s ideal for quick meals, takeout, or events. A practical option for easy cleanup.",
     "image": "/assets/images/item-00009.Image.071428.png",
     "retail": {
@@ -9157,7 +9157,7 @@
     "product_id": "item-00299",
     "barcode": "",
     "product_name": "SunMac Spag with sauce 1kl",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Noodles",
     "description": "SunMac Spag with sauce 1kl is a pasta meal kit used for preparing simple dishes. It combines noodles and sauce for easy cooking. A convenient option for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9180,7 +9180,7 @@
     "product_id": "item-00347",
     "barcode": "",
     "product_name": "Ultra Sulit Spaghetti 1kl",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Ultra Sulit Spaghetti 1kl is a pasta product suitable for everyday cooking. It’s easy to prepare and works well for family meals. A practical pantry staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9272,7 +9272,7 @@
     "product_id": "item-00179",
     "barcode": "14285004189",
     "product_name": "UFC Mechado Sauce 200g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "UFC Mechado Sauce 200g is a cooking sauce used for preparing everyday dishes. It blends easily and simplifies meal preparation. A practical option for home cooking.",
     "image": "/assets/images/item-00179.Image.131312.png",
     "retail": {
@@ -9295,7 +9295,7 @@
     "product_id": "item-00200",
     "barcode": "4801958846001",
     "product_name": "Ajinomoto Ginisa 8g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Ajinomoto Ginisa 8g is a seasoning product used to enhance the flavor of dishes. It dissolves easily during cooking. A convenient choice for everyday use.",
     "image": "/assets/images/item-00200.Image.134818.png",
     "retail": {
@@ -9318,7 +9318,7 @@
     "product_id": "item-00203",
     "barcode": "4801958911006",
     "product_name": "Ajinomoto Ginisa 40g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Ajinomoto Ginisa 40g is a seasoning product commonly used in regular cooking. It mixes easily and helps improve taste. A practical item for daily kitchen use.",
     "image": "/assets/images/item-00203.Image.134905.png",
     "retail": {
@@ -9341,7 +9341,7 @@
     "product_id": "item-00330",
     "barcode": "4801668100288",
     "product_name": "Mang Tomas Siga Bottle 325g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Mang Tomas Siga Bottle 325g is a condiment used for dipping or adding flavor to meals. It works well with a variety of dishes. A convenient option for everyday use.",
     "image": "/assets/images/item-00330.Image.180123.png",
     "retail": {
@@ -9479,7 +9479,7 @@
     "product_id": "item-00100",
     "barcode": "",
     "product_name": "Styro Spaghetti box",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Styro Spaghetti box is a plastic product used for serving or packaging food. It’s suitable for takeout or daily use. A practical option for easy handling.",
     "image": "/assets/images/item-00100.Image.133315.png",
     "retail": {
@@ -9502,7 +9502,7 @@
     "product_id": "item-00138",
     "barcode": "4801958408001",
     "product_name": "Tasty Boy Spicy 67g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Breading Mixes",
     "description": "Tasty Boy Spicy 67g is a seasoning product used to add flavor to dishes. It blends easily during cooking and preparation. A useful item for everyday meals.",
     "image": "/assets/images/item-00138.Image.134029.png",
     "retail": {
@@ -9525,7 +9525,7 @@
     "product_id": "item-00156",
     "barcode": "",
     "product_name": "Sili Atsal",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Sili Atsal is a condiment commonly used for adding flavor to dishes. It works well as a side or topping. A practical option for everyday use.",
     "image": "/assets/images/item-00156.Image.130936.png",
     "retail": {
@@ -9548,7 +9548,7 @@
     "product_id": "item-00158",
     "barcode": "",
     "product_name": "Bawang",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Bawang is a fresh ingredient commonly used in cooking to enhance flavor. It can be added to various dishes during preparation. A basic staple for everyday kitchen use.",
     "image": "/assets/images/item-00158.Image.131007.png",
     "retail": {
@@ -9571,7 +9571,7 @@
     "product_id": "item-00205",
     "barcode": "",
     "product_name": "Silver Swan Wow Sarap 8g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Silver Swan Wow Sarap 8g is a seasoning product used to enhance the flavor of dishes. It blends easily during cooking and preparation. A convenient option for everyday kitchen use.",
     "image": "/assets/images/item-00205.Image.131624.png",
     "retail": {
@@ -9617,7 +9617,7 @@
     "product_id": "item-00280",
     "barcode": "",
     "product_name": "Graham Crushed",
-    "category": "Frozen Foods",
+    "category": "Special",
     "description": "Graham Crushed is a baking ingredient often used for desserts and simple recipes. It’s ready to use and easy to mix. A convenient option for everyday preparation.",
     "image": "/assets/images/item-00280.Image.113554.png",
     "retail": {
@@ -9640,7 +9640,7 @@
     "product_id": "item-00281",
     "barcode": "",
     "product_name": "Graham Biscuit",
-    "category": "Frozen Foods",
+    "category": "Special",
     "description": "Graham Biscuit is a snack or baking product commonly used for desserts or quick bites. It can be eaten as is or added to recipes. A practical pantry item.",
     "image": "/assets/images/item-00281.Image.113604.png",
     "retail": {
@@ -9732,7 +9732,7 @@
     "product_id": "item-00213",
     "barcode": "",
     "product_name": "Baking Powder 15gms",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Baking Powder 15gms is a baking ingredient used in preparing baked goods. It helps improve texture during cooking. A useful item for regular kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9755,7 +9755,7 @@
     "product_id": "item-00247",
     "barcode": "",
     "product_name": "Palm Oil 1kl",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Oil",
     "description": "Palm Oil 1kl is a cooking oil commonly used for frying and food preparation. It fits well into everyday cooking routines. A reliable choice for kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9778,7 +9778,7 @@
     "product_id": "item-00295",
     "barcode": "",
     "product_name": "Fiesta Spaghetti Sauce 500g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Fiesta Spaghetti Sauce 500g is a cooking sauce used for preparing pasta dishes. It blends easily and simplifies meal preparation. A practical option for everyday cooking.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9801,7 +9801,7 @@
     "product_id": "item-00296",
     "barcode": "",
     "product_name": "Fiesta Spaghetti Sauce 1kl",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Fiesta Spaghetti Sauce 1kl is a cooking sauce suitable for larger servings at home. It works well for family meals and simple recipes. A convenient choice for regular use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9824,7 +9824,7 @@
     "product_id": "item-00346",
     "barcode": "",
     "product_name": "Royal Spaghetti 900g",
-    "category": "Instant Noodles",
+    "category": "Noodles",
     "description": "Royal Spaghetti 900g is a pasta product commonly used for cooking simple dishes. It’s easy to prepare and suitable for everyday meals. A practical pantry staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -9847,7 +9847,7 @@
     "product_id": "item-00007",
     "barcode": "",
     "product_name": "Straw",
-    "category": "Utensils",
+    "category": "Plastic and Paper Products",
     "description": "Straw is a plastic product used for drinking beverages. It’s convenient for daily use or gatherings. A practical option for easy serving.",
     "image": "/assets/images/item-00007.Image.070821.png",
     "retail": {
@@ -9870,7 +9870,7 @@
     "product_id": "item-00005",
     "barcode": "",
     "product_name": "Egg",
-    "category": "Frozen Foods",
+    "category": "Cooking Essentials",
     "description": "Egg is a fresh food item commonly used in cooking and baking. It can be prepared in different ways depending on the recipe. A basic staple for everyday meals.",
     "image": "/assets/images/item-00005.Image.065826.png",
     "retail": {
@@ -9893,7 +9893,7 @@
     "product_id": "item-00006",
     "barcode": "48003614108165",
     "product_name": "Swak",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Swak is a snack product commonly enjoyed as a quick bite. It’s easy to serve and suitable for everyday consumption. A convenient option for daily use.",
     "image": "/assets/images/item-00006.Image.070142.png",
     "retail": {
@@ -9916,7 +9916,7 @@
     "product_id": "item-00010",
     "barcode": "8996001440124",
     "product_name": "Energen Vanilla",
-    "category": "Powdered Drinks",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Energen Vanilla is a beverage product used for quick and easy drink preparation. It’s simple to prepare and suitable for daily consumption. A practical option for everyday use.",
     "image": "/assets/images/item-00010.Image.071737.png",
     "retail": {
@@ -9939,7 +9939,7 @@
     "product_id": "item-00011",
     "barcode": "4800361413480",
     "product_name": "Milo",
-    "category": "Powdered Drinks",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Milo is a beverage product commonly enjoyed as a drink. It’s easy to prepare and suitable for everyday consumption. A convenient choice for daily routines.",
     "image": "/assets/images/item-00011.Image.072052.png",
     "retail": {
@@ -10123,7 +10123,7 @@
     "product_id": "item-00059",
     "barcode": "4800344001413",
     "product_name": "Silver Swan Toyo Bottle 385ml",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Silver Swan Toyo Bottle 385ml is a condiment used for cooking, marinating, and dipping. It helps enhance the flavor of everyday dishes. A reliable kitchen staple.",
     "image": "/assets/images/item-00059.Image.110058.png",
     "retail": {
@@ -10146,7 +10146,7 @@
     "product_id": "item-00076",
     "barcode": "748485150093",
     "product_name": "Coco Mama Gata 400ml",
-    "category": "Powdered Drinks",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Coco Mama Gata 400ml is a cooking ingredient used for preparing dishes with coconut flavor. It blends easily into recipes and simplifies cooking. A practical option for everyday use.",
     "image": "/assets/images/item-00076.Image.132356.png",
     "retail": {
@@ -10238,7 +10238,7 @@
     "product_id": "item-00151",
     "barcode": "",
     "product_name": "Ice Bag",
-    "category": "Plastic Products",
+    "category": "Plastic and Paper Products",
     "description": "Ice Bag is a plastic product used for storing or carrying ice. It’s convenient for everyday use or special needs. A useful item for regular household use.",
     "image": "/assets/images/item-00151.Image.134523.png",
     "retail": {
@@ -10261,7 +10261,7 @@
     "product_id": "item-00160",
     "barcode": "",
     "product_name": "Repolyo",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Repolyo is a fresh ingredient commonly used in cooking everyday dishes. It can be prepared in different ways depending on the recipe. A versatile option for daily meals.",
     "image": "/assets/images/item-00160.Image.131031.png",
     "retail": {
@@ -10284,7 +10284,7 @@
     "product_id": "item-00162",
     "barcode": "",
     "product_name": "Cauliflower",
-    "category": "Rice & Grains",
+    "category": "Vegetables and Spices",
     "description": "Cauliflower is a fresh ingredient used in a variety of home-cooked dishes. It can be cooked easily and added to meals. A practical choice for everyday use.",
     "image": "/assets/images/item-00162.Image.131057.png",
     "retail": {
@@ -10307,7 +10307,7 @@
     "product_id": "item-00175",
     "barcode": "748485150079",
     "product_name": "Coco Mama Gata 200ml",
-    "category": "Powdered Drinks",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Coco Mama Gata 200ml is a cooking ingredient used for preparing coconut-based dishes. It blends easily into recipes and is simple to use. A convenient option for daily cooking.",
     "image": "/assets/images/item-00175.Image.134650.png",
     "retail": {
@@ -10330,7 +10330,7 @@
     "product_id": "item-00182",
     "barcode": "",
     "product_name": "Mama Sita's Menudo/Afritada 40g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Mama Sita's Menudo/Afritada 40g is a seasoning mix used for cooking everyday dishes. It helps simplify preparation and adds flavor easily. A practical choice for home cooking.",
     "image": "/assets/images/item-00182.Image.131335.png",
     "retail": {
@@ -10353,7 +10353,7 @@
     "product_id": "item-00185",
     "barcode": "25407803917",
     "product_name": "Mama Sitas's Sweet n Sour 40g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Mama Sitas's Sweet n Sour 40g is a seasoning mix used for preparing simple dishes at home. It blends easily and works well in everyday meals. A convenient option for daily use.",
     "image": "/assets/images/item-00185.Image.131401.png",
     "retail": {
@@ -10376,7 +10376,7 @@
     "product_id": "item-00191",
     "barcode": "4801668603659",
     "product_name": "Datu Puti Oyster 30g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Datu Puti Oyster 30g is a condiment used for cooking and adding flavor to dishes. It mixes easily into recipes during preparation. A reliable option for everyday kitchen use.",
     "image": "/assets/images/item-00191.Image.131530.png",
     "retail": {
@@ -10399,7 +10399,7 @@
     "product_id": "item-00206",
     "barcode": "",
     "product_name": "Lucky Me Nam-Nam 8g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Flavor Seasoning Mix",
     "description": "Lucky Me Nam-Nam 8g is a seasoning product used to enhance the flavor of dishes. It dissolves easily during cooking. A practical item for daily meal preparation.",
     "image": "/assets/images/item-00206.Image.131632.png",
     "retail": {
@@ -10422,7 +10422,7 @@
     "product_id": "item-00207",
     "barcode": "",
     "product_name": "Knorr Soup Crab N Corn 55g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Soup Crab N Corn 55g is a soup mix used for preparing quick and simple meals. It’s easy to cook and suitable for everyday use. A convenient option for regular kitchen needs.",
     "image": "/assets/images/item-00207.Image.131645.png",
     "retail": {
@@ -10445,7 +10445,7 @@
     "product_id": "item-00208",
     "barcode": "",
     "product_name": "Knorr Soup Crab N Corn 40g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Knorr Soup Crab N Corn 40g is a soup mix used for preparing quick and simple meals. It’s easy to cook and suitable for everyday use. A convenient option for regular kitchen needs.",
     "image": "/assets/images/item-00208.Image.131655.png",
     "retail": {
@@ -10468,7 +10468,7 @@
     "product_id": "item-00209",
     "barcode": "",
     "product_name": "Knorr Soup Cream of Mushroom 62g",
-    "category": "Canned Goods",
+    "category": "Cooking Essentials",
     "description": "Knorr Soup Cream of Mushroom 62g is a soup mix commonly used for easy meal preparation. It blends well and requires minimal effort. A practical choice for daily cooking.",
     "image": "/assets/images/item-00209.Image.131711.png",
     "retail": {
@@ -10491,7 +10491,7 @@
     "product_id": "item-00230",
     "barcode": "",
     "product_name": "Quality Toyo Long Neck",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Quality Toyo Long Neck is a condiment used for cooking, marinating, and dipping. It helps enhance the flavor of everyday dishes. A reliable kitchen staple.",
     "image": "/assets/images/item-00230.Image.113031.png",
     "retail": {
@@ -10514,7 +10514,7 @@
     "product_id": "item-00239",
     "barcode": "",
     "product_name": "Coconut Toyo 1 liter",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Coconut Toyo 1 liter is a condiment used for seasoning and preparing meals. It blends easily into different recipes. A practical option for everyday use.",
     "image": "/assets/images/item-00239.Image.113111.png",
     "retail": {
@@ -10537,7 +10537,7 @@
     "product_id": "item-00244",
     "barcode": "4804880312538",
     "product_name": "Spring bottle 348ml",
-    "category": "Soft Drinks",
+    "category": "Cooking Oil",
     "description": "Spring oil bottle 348ml is a cooking oil used for frying and food preparation. It fits well into daily kitchen routines. A convenient choice for regular cooking.",
     "image": "/assets/images/item-00244.Image.113133.png",
     "retail": {
@@ -10629,7 +10629,7 @@
     "product_id": "item-00278",
     "barcode": "",
     "product_name": "Kaong (White)",
-    "category": "Canned Goods",
+    "category": "Special",
     "description": "Kaong (White) is a canned goods item commonly used in desserts and sweet recipes. It blends easily into different dishes. A useful addition for everyday preparation.",
     "image": "/assets/images/item-00278.Image.113512.png",
     "retail": {
@@ -10652,7 +10652,7 @@
     "product_id": "item-00279",
     "barcode": "",
     "product_name": "Kaong (Green)",
-    "category": "Canned Goods",
+    "category": "Special",
     "description": "Kaong (Green) is a canned goods product used for desserts and simple dishes. It’s easy to use and suitable for everyday kitchen needs. A convenient choice.",
     "image": "/assets/images/item-00279.Image.175335.png",
     "retail": {
@@ -10698,7 +10698,7 @@
     "product_id": "item-00048",
     "barcode": "",
     "product_name": "Asukal Pula 1/2 500g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Asukal Pula 1/2 500g is a sugar product used for sweetening drinks and recipes. It dissolves easily and fits into everyday cooking needs. A basic household staple.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -10790,7 +10790,7 @@
     "product_id": "item-00231",
     "barcode": "",
     "product_name": "Quality Suka Long Neck",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Condiments",
     "description": "Quality Suka Long Neck is a condiment used for cooking and dipping. It adds flavor to everyday meals. A practical addition to your kitchen essentials.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -10813,7 +10813,7 @@
     "product_id": "item-00256",
     "barcode": "4806508850026",
     "product_name": "Iodized Salt 500g",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Cooking Essentials",
     "description": "Iodized Salt 500g is a seasoning product used for cooking and food preparation. It dissolves easily and enhances the taste of dishes. A basic staple for everyday kitchen use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -10836,7 +10836,7 @@
     "product_id": "item-00321",
     "barcode": "",
     "product_name": "Ricoa Cocoa",
-    "category": "Powdered Drinks",
+    "category": "Powdered Drinks and Instant Coffee",
     "description": "Ricoa Cocoa is a beverage ingredient used for preparing drinks or desserts. It mixes easily and works well for everyday recipes. A convenient option for regular use.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
@@ -10859,7 +10859,7 @@
     "product_id": "item-00328",
     "barcode": "",
     "product_name": "UFC Swakto Combo Spaghetti",
-    "category": "Condiments & Cooking Essentials",
+    "category": "Noodles",
     "description": "UFC Swakto Combo Spaghetti is a pasta meal kit designed for easy preparation. It combines noodles and sauce for quick cooking. A practical option for everyday meals.",
     "image": "/assets/images/tindahan-no-image.png",
     "retail": {
