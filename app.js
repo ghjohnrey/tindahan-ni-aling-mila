@@ -18,7 +18,7 @@ const elements = {
   pagination: document.getElementById('pagination'),
 };
 
-const DISPLAY_LIMIT = 10;
+const DISPLAY_LIMIT = 12;
 
 async function initCatalog() {
   initMenuToggle();
