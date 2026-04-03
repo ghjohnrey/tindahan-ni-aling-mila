@@ -31,7 +31,7 @@ body {
   font-family: 'Inter', Arial, sans-serif;
   color: var(--text);
   background:
-    radial-gradient(circle at top left, rgba(246, 223, 195, 0.85), transparent 34%),
+    radial-gradient(circle at top left, rgba(246, 223, 195, 0.85), transparent 24%),
     linear-gradient(180deg, #f8f2eb 0%, #f3ece3 48%, #f7f2ed 100%);
   line-height: 1.65;
 }
