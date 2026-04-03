@@ -6031,7 +6031,7 @@
     "product_name": "Curry Powder",
     "category": "Spices",
     "description": "Curry Powder is a seasoning product used to add flavor to dishes. It blends easily into recipes and is commonly used in cooking. A useful item for everyday meal preparation.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/curry-powder.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6054,7 +6054,7 @@
     "product_name": "Harina",
     "category": "Spices",
     "description": "Harina is a flour product used for baking and cooking various dishes. It works well for preparing dough and mixtures. A basic staple for everyday kitchen needs.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/harina.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6146,7 +6146,7 @@
     "product_name": "Kasubha",
     "category": "Spices",
     "description": "Kasubha is a seasoning ingredient used to add color and flavor to dishes. It blends easily during cooking. A useful addition to everyday recipes.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/kasubha.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6169,7 +6169,7 @@
     "product_name": "Laurel",
     "category": "Spices",
     "description": "Laurel is a seasoning ingredient commonly used for cooking and flavoring dishes. It adds aroma during preparation. A practical item for everyday kitchen use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/laurel.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6192,7 +6192,7 @@
     "product_name": "Paminta Buo",
     "category": "Spices",
     "description": "Paminta Buo is a seasoning product used for adding flavor to dishes. It can be included during cooking for better taste. A useful staple for daily meal preparation.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/paminta-buo.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6215,7 +6215,7 @@
     "product_name": "Paminta Crack",
     "category": "Spices",
     "description": "Paminta Crack is a seasoning product used to enhance the flavor of cooked dishes. It blends easily into recipes. A practical option for everyday cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/paminta-crack.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6238,7 +6238,7 @@
     "product_name": "Paminta Pino",
     "category": "Spices",
     "description": "Paminta Pino is a seasoning product commonly used for flavoring dishes. It mixes easily during cooking. A reliable item for daily kitchen use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/paminta-pino.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6399,7 +6399,7 @@
     "product_name": "Star Anis",
     "category": "Spices",
     "description": "Star Anis is a seasoning ingredient used to add aroma and flavor to dishes. It blends well during cooking and is commonly used in recipes. A useful addition to everyday kitchen use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/star-anis.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6629,7 +6629,7 @@
     "product_name": "Sesame Seed",
     "category": "Spices",
     "description": "Sesame Seed is a seasoning ingredient commonly used to add texture and flavor to dishes. It can be sprinkled or mixed into recipes during preparation. A useful item for everyday cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/sesame-seeds.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6652,7 +6652,7 @@
     "product_name": "Pasas",
     "category": "Spices",
     "description": "Pasas is a dried fruit commonly used in cooking and baking. It can be added to dishes or desserts for extra flavor. A convenient ingredient for everyday recipes.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/pasas.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -7595,7 +7595,7 @@
     "product_name": "Sibot",
     "category": "Spices",
     "description": "Sibot is a seasoning ingredient commonly used in cooking. It adds aroma and blends into dishes during preparation. A useful addition to everyday recipes.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/sibot.png",
     "retail": {
       "price": 100,
       "qty": 1,
