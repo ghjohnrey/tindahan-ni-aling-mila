@@ -6537,7 +6537,7 @@
     "product_name": "Tokwa",
     "category": "Special",
     "description": "Tokwa is a fresh food item commonly used in cooking various dishes. It can be prepared in different ways depending on the recipe. A versatile ingredient for everyday meals.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/tokwa.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -6560,7 +6560,7 @@
     "product_name": "Toho",
     "category": "Special",
     "description": "Toho is a fresh food item often used in simple cooking and dishes. It can be prepared easily and added to meals. A practical option for everyday use.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/tokwa.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -7687,7 +7687,7 @@
     "product_name": "Miki Sariwa (Manipis)",
     "category": "Special",
     "description": "Miki Sariwa (Manipis) is a fresh noodle product used for cooking simple dishes. It can be prepared easily and served with basic ingredients. A useful item for everyday meals.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/fresh-miki-thin.png",
     "retail": {
       "price": 100,
       "qty": 1,
@@ -7710,7 +7710,7 @@
     "product_name": "Miki Sariwa (lomi)",
     "category": "Special",
     "description": "Miki Sariwa (lomi) is a fresh noodle product commonly used in cooking various dishes. It’s easy to prepare and works well for everyday meals. A practical choice for home cooking.",
-    "image": "/assets/images/tindahan-no-image.png",
+    "image": "/assets/images/fresh-miki-thick.png",
     "retail": {
       "price": 100,
       "qty": 1,
