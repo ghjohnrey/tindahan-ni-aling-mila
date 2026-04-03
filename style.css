@@ -220,7 +220,7 @@ img {
 .glass-panel,
 .card,
 .product-card {
-  backdrop-filter: blur(14px);
+  backdrop-filter: blur(3px);
 }
 
 .hero-copy {
